@@ -1,0 +1,44 @@
+<!doctype html>
+<html class="no-js" lang="">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <title>Sean McGlothlin - Home</title>
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="apple-touch-icon" href="img/apple-touch-icon.png">
+    <link rel="stylesheet" href="theme/css/normalize.css">
+    <link rel="stylesheet" href="theme/css/main.css">
+  </head>
+  <body>
+    <div id="main">
+      <div id="header">
+        <h1 class="center">Sean McGlothlin</h1>
+        <h2 class="center">
+          Programmer | Musician | Car&nbsp;Enthusiast</h2>
+        <ul>
+          <li><a href="index.html">Home</a></li>
+        </ul>
+      </div>
+      <div id="content">
+        <strong><p>Welcome!</p></strong>
+        <p>
+          I am a software developer working for the CORE team at Oregon State University. Our team provides business intellignce for staff and faculty across campus. To learn more about what we do, check out <a href="http://fa.oregonstate.edu/bic/core" target="_blank">this</a> link.
+        </p>
+        <p>
+          I graduated from Oregon State University in 2015 with a Bachelors in Computer Science. Since then, I've had a taste of working all around the software stack. Some of my various projects have involved:
+        </p>
+        <ul>
+          <li>Data analysis and dashboard design (SQL and Google Visualization)</li>
+          <li>Front end web devleopment (HTML, CSS, and JavaScript)</li>
+          <li>Back end web development (Drupal)</li>
+          <li>Linux and Solaris system administration (Ansible and Docker)</li>
+        </ul>
+        <p>
+          When I'm not at work, I'm probably playing the bass guitar or learning about cars; there's much to know and I'm new to the scene.
+        </p>
+        <p>This site is still under development, so more content is on the way soon.</p>
+      </div>
+    </div>
+  </body>
+</html>
