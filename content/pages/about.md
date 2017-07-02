@@ -10,13 +10,17 @@ This site is written using Pelican, a Static Site Generator.
 
 In the past I developed websites using a full-blown Content Management System (CMS). For those who don't know, a CMS is a web application that comes with its own database and front end templates built in, so users can focus on writing content rather than spending time on the technical details and layout of the site. This is an excellent system in an enterprise environment, especially when content editors are not developers. That being said, I'm just a single developer who values speed, security, and minimalism, so it doesn't make sense for my use case.
 
-####So, it's faster?
+####So, static sites are faster?
 
-Yes, it's screaming fast. Since the web server only has to serve static content that was pre-built, static sites scale phenomenally well and return content in an instant. A CMS uses copious caching to prevent database hits every time a page request is made, but this is an additional layer of complexity that still takes more time than serving static content.
+Yes, they're screaming fast. Since the web server only has to serve static content that was pre-built, static sites scale phenomenally well and return content in an instant. A CMS uses copious caching to prevent database hits every time a page request is made, but this is an additional layer of complexity that still takes more time to serve up than pure static content.
 
 ####What's this about security?
 
-Since a CMS has a public-facing database, it is prone to security vulnerabilities. I often hear about critical bugs that will leave CMS sites compromised in mere hours after their discovery if they are not patched. The more popular a CMS, the more likely it could be compromised; attackers usually target well-known systems to maximize their chances of success. Pelican does not have this problem, since it is really just a Python module that runs on my computer.
+Since a CMS has a public-facing database, it is prone to security vulnerabilities. There have been critical bugs that leave CMS sites compromised within mere hours if they are not patched immediately after the bug was reported. Pelican does not have this problem, since it is really just a Python module that runs on my computer.
+
+####Why plaid?
+
+Anyone who knows me will attest to how much I like plaid. I couldn't tell you why, it's just "fun", as my wife would say. I had fun making my favorite plaid pattern using pure CSS3.
 
 ####More Information
 
