@@ -5,7 +5,7 @@ from __future__ import unicode_literals
 AUTHOR = 'Sean McGlothlin'
 SITENAME = AUTHOR 
 SITESUBTITLE = 'Programmer | Musician | Car&nbsp;Enthusiast'
-SITEURL = 'localhost:8000'
+SITEURL = 'https://seanmcglothlin.com'
 
 PATH = 'content'
 THEME = 'themes/tartan'
@@ -46,3 +46,4 @@ DEFAULT_PAGINATION = 10
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
+
