@@ -24,10 +24,10 @@ Anyone who knows me will attest to how much I like plaid. I couldn't tell you wh
 
 ####More Information
 
-[Click here to learn more about Pelican.](https://blog.getpelican.com)
+[Click here to learn more about Pelican.](https://blog.getpelican.com){:target="_blank"}
 
-[Click here for this site's source code.](https://github.com/McGlothlin/pelican-site)
+[Click here for this site's source code.](https://github.com/McGlothlin/pelican-site){:target="_blank"}
 
 ###About Me
 
-If you want to learn more about me and what I do professionally, you can find me on LinkedIn at [https://www.linkedin.com/in/smcglothlin](https://www.linkedin.com/in/smcglothlin).
+If you want to learn more about me and what I do professionally, you can find me on LinkedIn at [https://www.linkedin.com/in/smcglothlin](https://www.linkedin.com/in/smcglothlin){:target="_blank"}.
