@@ -7,12 +7,24 @@
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="apple-touch-icon" href="img/apple-touch-icon.png">
-    <link rel="stylesheet" href="theme/css/normalize.css">
-    <link rel="stylesheet" href="theme/css/main.css">
+    <link rel="stylesheet" href="{{ SITEURL }}/theme/css/main.css">
   </head>
 	<body>
 	  <div id="main">
-				{% block main %} {% endblock %}
+			{% block main %}
+      <div id="header">
+        <h1 class="center">{% block pagetitle %} {% endblock %}</h1>
+        <h2 class="center">{% block subtitle %} {% endblock %}</h2>
+        <ul class="sitemap">
+          {% for title, link in MENUITEMS %}
+              <li><a href="{{ link }}">{{ title }}</a></li>
+          {% endfor %}
+        </ul>
+      </div>
+      <div id="content">
+      {% block content %}{% endblock %}
+      {% endblock main %}
+      </div>
 		</div>
   </body>
 </html>
