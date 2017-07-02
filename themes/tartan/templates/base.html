@@ -4,7 +4,12 @@
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     <title>{% block title %} {% endblock %}</title>
-    <meta name="description" content="">
+    <meta property="og:site_name" content="{{ SITENAME }}"/>
+    <meta property="og:title" content="{{ SITENAME }}"/>
+    <meta property="og:description" content="{{ SITESUBTITLE }}"/>
+    <meta property="og:image" content="{{ SITEURL }}/theme/img/tile.png"/>
+    <meta property="og:url" content="{{ SITEURL }}"/>
+    <meta property="og:type" content="website"/>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="apple-touch-icon" href="img/apple-touch-icon.png">
     <link rel="stylesheet" href="{{ SITEURL }}/theme/css/main.css">
