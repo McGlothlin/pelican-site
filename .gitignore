@@ -1,5 +1,6 @@
-# Pelican output
+# Pelican development
 output/
+*.pid
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

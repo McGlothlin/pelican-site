@@ -1,18 +1,10 @@
 {% extends "base.html" %}
 
-{% block title %}Sean McGlothlin{% endblock %}
+{% block title %}{{ SITENAME }}{% endblock %}
+{% block pagetitle %}{{ SITENAME }}{% endblock %}
+{% block subtitle %}{{ SITESUBTITLE }}{% endblock %}
 
-{% block main %}
-
-<div id="header">
-  <h1 class="center">Sean McGlothlin</h1>
-  <h2 class="center">
-    Programmer | Musician | Car&nbsp;Enthusiast</h2>
-  <ul>
-    <li><a href="index.html">Home</a></li>
-  </ul>
-</div>
-<div id="content">
+{% block content %}
   <strong><p>Welcome!</p></strong>
   <p>
     I am a software developer working for the CORE team at Oregon State University. Our team provides business intellignce for staff and faculty across campus. To learn more about what we do, check out <a href="http://fa.oregonstate.edu/bic/core" target="_blank">this</a> link.
@@ -30,6 +22,8 @@
     When I'm not at work, I'm probably playing the bass guitar or learning about cars; there's much to know and I'm new to the scene.
   </p>
   <p>This site is still under development, so more content is on the way soon.</p>
-</div>
+{% endblock content %}
 
-{% endblock %}
+{% block main %}
+  {{ super() }}
+{% endblock main %}

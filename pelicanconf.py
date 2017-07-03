@@ -3,12 +3,13 @@
 from __future__ import unicode_literals
 
 AUTHOR = 'Sean McGlothlin'
-SITENAME = 'Sean\'s Site'
-SITEURL = ''
+SITENAME = AUTHOR 
+SITESUBTITLE = 'Programmer | Musician | Car&nbsp;Enthusiast'
+SITEURL = 'https://seanmcglothlin.com'
 
 PATH = 'content'
 THEME = 'themes/tartan'
-STATIC_PATHS = ['images', 'extra/robots.txt', 'extra/favicon.ico']
+STATIC_PATHS = ['images', 'extra/robots.txt', 'extra/favicon.ico', 'pages']
 EXTRA_PATH_METADATA = {
     'extra/robots.txt': {'path': 'robots.txt'},
     'extra/favicon.ico': {'path': 'favicon.ico'}
@@ -24,6 +25,12 @@ CATEGORY_FEED_ATOM = None
 TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
+DISPLAY_PAGES_ON_MENU = True
+
+#Menu
+MENUITEMS = (('Home', '/index.html'),
+             ('About', '/pages/about.html'),
+            )
 
 # Blogroll
 LINKS = (('Pelican', 'http://getpelican.com/'),
@@ -38,4 +45,5 @@ SOCIAL = (('You can add links in your config file', '#'),
 DEFAULT_PAGINATION = 10
 
 # Uncomment following line if you want document-relative URLs when developing
-RELATIVE_URLS = True
+#RELATIVE_URLS = True
+
