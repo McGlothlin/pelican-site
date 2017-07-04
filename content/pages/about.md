@@ -2,9 +2,15 @@ Title: About
 Slug: about
 Author: Sean McGlothlin
 
+###About Me
+
+If you want to learn more about me and what I do professionally, you can find me on [GitHub](https://github.com/McGlothlin){:target="_blank"}, [LinkedIn](https://www.linkedin.com/in/smcglothlin){:target="_blank"}, and [StackOverflow](https://stackoverflow.com/users/5472966/mcglothlin){:target="_blank"}.
+
+------------------
+
 ###About This Site
 
-This site is written using Pelican, a Static Site Generator.
+This site is written using Pelican, a static site generator.
 
 ####Why Pelican?
 
@@ -20,14 +26,12 @@ Since a CMS has a public-facing database, it is prone to security vulnerabilitie
 
 ####Why plaid?
 
-Anyone who knows me will attest to how much I like plaid. I couldn't tell you why, it's just "fun", as my wife would say. I had fun making my favorite plaid pattern using pure CSS3.
+Visitors with larger screens will notice a plaid background across the site. Anyone who knows me will attest to how much I like plaid. I couldn't tell you why, it's just "fun", as my wife would say. I had fun making my favorite plaid pattern using pure CSS3.
+
+--------------------
 
 ####More Information
 
 [Click here to learn more about Pelican.](https://blog.getpelican.com){:target="_blank"}
 
 [Click here for this site's source code.](https://github.com/McGlothlin/pelican-site){:target="_blank"}
-
-###About Me
-
-If you want to learn more about me and what I do professionally, you can find me on LinkedIn at [https://www.linkedin.com/in/smcglothlin](https://www.linkedin.com/in/smcglothlin){:target="_blank"}.
