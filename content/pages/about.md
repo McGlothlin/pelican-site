@@ -4,7 +4,7 @@ Author: Sean McGlothlin
 
 ###About Me
 
-If you want to learn more about me and what I do professionally, you can find me on [GitHub](https://github.com/McGlothlin){:target="_blank"}, [LinkedIn](https://www.linkedin.com/in/smcglothlin){:target="_blank"}, and [StackOverflow](https://stackoverflow.com/users/5472966/mcglothlin){:target="_blank"}.
+If you want to learn more about me and what I do professionally, you can find me on [GitHub](https://github.com/McGlothlin){:target="_blank"}, [LinkedIn](https://www.linkedin.com/in/smcglothlin){:target="_blank"}, and [Stack Overflow](https://stackoverflow.com/users/5472966/mcglothlin){:target="_blank"}.
 
 ------------------
 
