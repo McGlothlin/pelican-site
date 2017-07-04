@@ -30,6 +30,9 @@ DISPLAY_PAGES_ON_MENU = True
 #Menu
 MENUITEMS = (('Home', '/index.html'),
              ('About', '/pages/about.html'),
+             ('Code', '/pages/code.html'),
+             ('Music', '/pages/music.html'),          
+             ('Cars', '/pages/cars.html'),
             )
 
 # Blogroll
