@@ -28,7 +28,7 @@ Since a CMS has a public-facing database, it is prone to security vulnerabilitie
 
 #### Why plaid?
 
-Visitors with larger screens will notice a plaid background across the site. Anyone who knows me will attest to how much I like plaid. I couldn't tell you why, it's just "fun", as my wife would say. I had fun making my favorite plaid pattern using pure CSS3.
+Visitors with larger screens will notice a plaid background across the site. Anyone who knows me will attest to how much I like plaid. I couldn't tell you why; it's just "fun", as my wife would say. I had fun making my favorite plaid pattern using pure CSS3.
 
 --------------------
 
