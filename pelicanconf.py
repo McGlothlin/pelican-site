@@ -15,6 +15,10 @@ EXTRA_PATH_METADATA = {
     'extra/favicon.ico': {'path': 'favicon.ico'}
 }
 
+PLUGINS = [
+    'minification',
+]
+
 TIMEZONE = 'America/Los_Angeles'
 
 DEFAULT_LANG = 'en'
