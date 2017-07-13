@@ -158,10 +158,10 @@ textarea {
   color: WhiteSmoke;
   text-decoration: none;
   transform-origin: 50% 50%;
-  -webkit-transition: box-shadow .3s, text-shadow .3s, transform .3s ease-in-out;
-  -moz-transition: box-shadow .3s, text-shadow .3s, transform .3s ease-in-out;
-  -o-transition: box-shadow .3s, text-shadow .3s, transform .3s ease-in-out;
-  transition: box-shadow .3s, text-shadow .3s, transform .3s ease-in-out;
+  -webkit-transition: box-shadow .3s, transform .3s ease-in-out;
+  -moz-transition: box-shadow .3s, transform .3s ease-in-out;
+  -o-transition: box-shadow .3s, transform .3s ease-in-out;
+  transition: box-shadow .3s, transform .3s ease-in-out;
 }
 
 #content {

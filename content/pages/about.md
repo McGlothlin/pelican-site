@@ -42,3 +42,5 @@ Visitors with larger screens will notice a plaid background across the site. Any
 [Click here to learn more about Pelican.](https://blog.getpelican.com){:target="_blank"}
 
 [Click here for this site's source code.](https://github.com/McGlothlin/pelican-site){:target="_blank"}
+
+Feel free to check out some of the optimizations I've done using Google's [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/?url=https%3A%2F%2Fseanmcglothlin.com){:target="_blank"} tool.
