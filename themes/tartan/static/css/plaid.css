@@ -1,0 +1,31 @@
+body {
+  background-color: #1A5276;
+  /* Plaid background */
+  background-image:
+    repeating-linear-gradient(
+      0deg,
+      transparent,
+      transparent 65px,
+      rgba(0,0,0,.1) 65px,
+      rgba(0,0,0,.1) 90px,
+      transparent 90px,
+      transparent 120px,
+      rgba(0,0,0,.3) 120px,
+      rgba(0,0,0,.3) 240px,
+      transparent 240px
+    ),
+    repeating-linear-gradient(
+      90deg,
+      transparent,
+      transparent 65px,
+      rgba(0,0,0,.1) 65px,
+      rgba(0,0,0,.1) 90px,
+      transparent 90px,
+      transparent 120px,
+      rgba(0,0,0,.3) 120px,
+      rgba(0,0,0,.3) 240px,
+      transparent 240px
+    );
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+}
