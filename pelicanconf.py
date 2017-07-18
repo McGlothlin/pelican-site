@@ -3,13 +3,16 @@
 from __future__ import unicode_literals
 
 AUTHOR = 'Sean McGlothlin'
-SITENAME = AUTHOR 
+AUTHOR_URL = 'pages/about.html'
+SITENAME = AUTHOR
 SITESUBTITLE = 'Programmer | Musician | Car&nbsp;Enthusiast'
 SITEURL = 'https://seanmcglothlin.com'
 
+PAGE_URL = '{slug}'
+
 PATH = 'content'
 THEME = 'themes/tartan'
-STATIC_PATHS = ['images', 'extra/robots.txt', 'extra/favicon.ico', 'pages']
+STATIC_PATHS = ['images', 'extra/robots.txt', 'extra/favicon.ico', 'pages', 'code', 'music', 'cars']
 EXTRA_PATH_METADATA = {
     'extra/robots.txt': {'path': 'robots.txt'},
     'extra/favicon.ico': {'path': 'favicon.ico'}
@@ -31,7 +34,7 @@ DISPLAY_PAGES_ON_MENU = True
 MENUITEMS = (('Home', '/index.html'),
              ('About', '/pages/about.html'),
              ('Code', '/pages/code.html'),
-             ('Music', '/pages/music.html'),          
+             ('Music', '/pages/music.html'),
              ('Cars', '/pages/cars.html'),
             )
 
