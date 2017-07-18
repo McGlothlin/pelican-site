@@ -8,7 +8,8 @@ SITENAME = AUTHOR
 SITESUBTITLE = 'Programmer | Musician | Car&nbsp;Enthusiast'
 SITEURL = 'https://seanmcglothlin.com'
 
-PAGE_URL = '{slug}'
+ARTICLE_URL = '{slug}.html'
+ARTICLE_SAVE_AS = '{slug}.html'
 
 PATH = 'content'
 THEME = 'themes/tartan'
@@ -18,8 +19,10 @@ EXTRA_PATH_METADATA = {
     'extra/favicon.ico': {'path': 'favicon.ico'}
 }
 
-TIMEZONE = 'America/Los_Angeles'
+SYNTAX_THEME='monokai'
 
+TIMEZONE = 'America/Los_Angeles'
+DEFAULT_DATE_FORMAT = '%A, %B %d %Y'
 DEFAULT_LANG = 'en'
 
 # Feed generation is usually not desired when developing
@@ -51,5 +54,5 @@ SOCIAL = (('You can add links in your config file', '#'),
 DEFAULT_PAGINATION = 10
 
 # Uncomment following line if you want document-relative URLs when developing
-#RELATIVE_URLS = True
+RELATIVE_URLS = True
 

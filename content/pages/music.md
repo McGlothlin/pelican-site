@@ -1,5 +1,5 @@
 Title: Music
-Slug: music
+Category: music
 Author: Sean McGlothlin
 
 ### This section will be all about music.

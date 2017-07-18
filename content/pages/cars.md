@@ -1,5 +1,5 @@
 Title: Cars
-Slug: cars
+Category: cars
 Author: Sean McGlothlin
 
-### This section will be all about cars.
+### Articles about cars (read with coffee for best results)

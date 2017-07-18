@@ -3,7 +3,14 @@
 {% block title %}{{ page.title }}{% endblock %}
 {% block pagetitle %}{{ page.title }}{% endblock %}
 {% block subtitle %}{{ page.subtitle }}{% endblock %}
-{% block content %}{{ page.content }}{% endblock %}
+{% block content %}
+	{{ page.content }}
+	<ul>
+	{% for article in articles if page.category == article.category %}
+		<li><a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }} - {{ article.locale_date }}</a></li>
+	{% endfor %}
+	</ul>
+{% endblock %}
 
 {% block main %}
   {{ super() }}

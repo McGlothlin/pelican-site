@@ -1,5 +1,5 @@
 Title: Code
-Slug: code
+Category: code
 Author: Sean McGlothlin
 
 ### This section will be all about code.

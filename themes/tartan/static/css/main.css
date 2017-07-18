@@ -92,6 +92,23 @@ html {
   font-family: 'Noto Sans', sans-serif;
 }
 
+#content li:before {
+  content: "> ";
+  font-family: monospace;
+}
+
+img {
+    width:100%;
+    height: auto;
+    justify-content: center;
+}
+
+ul li {
+  list-style-type: none;
+}
+
+
+
 #content a {
   color: #009933;
   -webkit-transition: color, background-color .1s ease-in;
@@ -102,8 +119,6 @@ html {
 
 h1 {
   font-size: 5vw;
-  margin-left: 10%;
-  margin-right: 10%;
   margin-top: 0;
   margin-bottom: 0;
   padding-top: 10px;
@@ -111,8 +126,6 @@ h1 {
 
 h2 {
   font-size: 2.3vw;
-  margin-left: 10%;
-  margin-right: 10%;
 }
 
 body {
