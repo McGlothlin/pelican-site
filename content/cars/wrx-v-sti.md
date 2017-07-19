@@ -23,7 +23,7 @@ The WRX is the ultimate jack of all trades, virtually untouchable as the perfect
 
 ### Strengths of the STI
 
-The STI is a factory-built track weapon, equipped with not one but *three* limited slip differentials that bounce the torque around to the tires that need it most in low-grip scenarios; this car vehemently refuses to lose grip. The stiff ride provides slightly better handling than the WRX and the engine is noticeably faster at high RPMs where this car feels most at home. The close ratio transmission is sublime, allowing for quick and frequent shifts. If you were to double the horsepower then add two doors and 1000 lbs to a Mazda Miata, this is what you might end up with. It's an exciting driver's car that is relatively inexpensive, and you could easily live with it on a daily basis.
+The STI is a factory-built track weapon, equipped with not one but *three* [limited slip differentials](https://en.wikipedia.org/wiki/Limited-slip_differential){:target="_blank"} that bounce the torque around to the tires that need it most in low-grip scenarios; this car vehemently refuses to lose grip. The stiff ride provides slightly better handling than the WRX and the engine is noticeably faster at high RPMs where this car feels most at home. The close ratio transmission is sublime, allowing for quick and frequent shifts. If you were to add two doors, AWD, a turbocharger, and 1000 lbs to a Mazda Miata, this is what you might end up with. It's an exciting driver's car that is relatively inexpensive, and you could easily live with it on a daily basis.
 
 ### My personal favorite
 

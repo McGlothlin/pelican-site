@@ -5,7 +5,7 @@ from __future__ import unicode_literals
 AUTHOR = 'Sean McGlothlin'
 AUTHOR_URL = 'pages/about.html'
 SITENAME = AUTHOR
-SITESUBTITLE = 'Programmer | Musician | Car&nbsp;Enthusiast'
+SITESUBTITLE = 'Developer | Musician | Car&nbsp;Enthusiast'
 SITEURL = 'https://seanmcglothlin.com'
 
 ARTICLE_URL = '{slug}.html'
