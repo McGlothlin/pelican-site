@@ -1,4 +1,5 @@
 Title: Code
+Subtitle: Programming endeavors, tutorials, and more
 Category: code
 Author: Sean McGlothlin
 
