@@ -1,6 +1,7 @@
-Title: Music
-Subtitle: Information on a need-to-know "bass"is
+Title: Sean McGlothlin
+Subtitle: Music
 Category: music
+Slug: music
 Author: Sean McGlothlin
 
-### This section will be all about music.
+### Information on a need-to-know "bass"is

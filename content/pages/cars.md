@@ -1,6 +1,7 @@
-Title: Cars
-Subtitle: For best results, add coffee
+Title: Sean McGlothlin
+Subtitle: Cars
 Category: cars
+Slug: cars
 Author: Sean McGlothlin
 
-### Articles about cars (coffee not included)
+### Articles about cars (for best results, add coffee)

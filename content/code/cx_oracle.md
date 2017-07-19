@@ -1,5 +1,5 @@
 Title: Python: Installing cx_Oracle
-Subtitle: Astonishingly tough to get right the first time
+Subtitle: Astonishingly tough to get right the first time...
 Date: 2017-07-18
 Slug: code/cx_oracle
 Category: code
@@ -35,7 +35,7 @@ If you download a different Instant Client version, be sure to adjust the versio
 
 The following environment variables must be added to a user profile to use the module. Open `.bashrc` (or equivalent) in your favorite editor and append the following:
 
-	:::bash 
+	:::bash
 	#
 	# PATH requirements to use the cx_Oracle Python module.
 	# This will allow Python to connect to an Oracle database.
@@ -90,7 +90,7 @@ This should install the python module in a local directory, which needs to be th
 
 Once the module is installed, it must be imported into the script:
 
-	:::python 
+	:::python
 	import cx_Oracle
 
 If there are no errors, then cx_Oracle was installed successfully! You should definitely go grab a beer at this point if you're not at work.

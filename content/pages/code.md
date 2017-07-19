@@ -1,6 +1,7 @@
-Title: Code
-Subtitle: Programming endeavors, tutorials, and more
+Title: Sean McGlothlin
+Subtitle: Code
 Category: code
+Slug: code
 Author: Sean McGlothlin
 
-### This section will be all about code.
+### Programming endeavors, tutorials, and more
