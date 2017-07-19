@@ -107,7 +107,13 @@ ul li {
   list-style-type: none;
 }
 
-
+pre {
+  white-space: pre-wrap;
+  white-space: -moz-pre-wrap;
+  white-space: -pre-wrap;
+  white-space: -o-pre-wrap;
+  word-wrap: break-word;
+}
 
 #content a {
   color: #009933;

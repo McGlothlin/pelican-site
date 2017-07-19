@@ -1,4 +1,5 @@
 Title: Subaru WRX vs. STI
+Subtitle: The Battle of the Boxers
 Date: 2017-07-17
 Slug: cars/wrx-v-sti
 Category: cars
@@ -15,7 +16,7 @@ TL;DR: both of these cars are awesome and I'd be more than happy with either one
 
 ### A brief history of the WRX and STI
 
-The Subaru WRX, or "World Rally eXperimental", was originally brought to America in 2001 (for the 2002 model year) as the Impreza WRX, packing a 2.0 liter turbocharged four cylinder engine that produced 227 brake horsepower (bhp) and could fly to 60 mph in just under six seconds, which was phenomenal for the time; frankly, it's still pretty quick. Subaru Tecnica International (STI) got a hold of the WRX and dialed it up to eleven, bringing a 2.5 liter motor to America in 2003 that delivered a mind-blowing 300 hp and 0-60 time below five seconds. In 2014 the WRX and STI split from the Impreza line and gained their own unique look and branding. Over the last decade, each model has gone through several iterations but the two machines are built with very different design philosophies and use cases.
+The Subaru WRX, or "World Rally eXperimental", was originally brought to America in 2001 (for the 2002 model year) as the Impreza WRX, packing a 2.0 liter turbocharged four cylinder [boxer engine](https://en.wikipedia.org/wiki/Flat_engine){:target="_blank"} that produced 227 brake horsepower (bhp) and could fly to 60 mph in just under six seconds, which was phenomenal for the time; frankly, it's still pretty quick. Subaru Tecnica International (STI) got a hold of the WRX and dialed it up to eleven, bringing a 2.5 liter motor to America in 2003 that delivered a mind-blowing 300 hp and 0-60 time below five seconds. In 2014 the WRX and STI split from the Impreza line and gained their own unique look and branding. Over the last decade, each model has gone through several iterations but the two machines are built with very different design philosophies and use cases.
 
 ### Strengths of the WRX
 

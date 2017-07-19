@@ -1,4 +1,5 @@
 Title: Music
+Subtitle: Information on a need-to-know "bass"is
 Category: music
 Author: Sean McGlothlin
 
