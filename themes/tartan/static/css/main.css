@@ -154,6 +154,16 @@ hr {
   margin-top: 20px;
 }
 
+@media (min-width: 2000px) {
+  #content {
+    font-size: 1vw;
+  }
+
+  #header ul {
+    font-size: 1.1vw;
+  }
+}
+
 @media (min-width: 1200px) {
   #header h1 {
     font-size: 3vw;
