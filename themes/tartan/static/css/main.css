@@ -88,7 +88,7 @@ html {
   margin-right: 8%;
   padding-bottom: 5%;
   font-family: 'Noto Sans', sans-serif;
-  overflow: auto;
+  overflow: visible;
 }
 
 #content li:before {
