@@ -42,7 +42,6 @@ html {
 
 #main {
   background-color: WhiteSmoke;
-  height: 100%;
   min-height: 100vh;
   box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.5);
 }
@@ -89,6 +88,7 @@ html {
   margin-right: 8%;
   padding-bottom: 5%;
   font-family: 'Noto Sans', sans-serif;
+  overflow: auto;
 }
 
 #content li:before {
@@ -96,10 +96,27 @@ html {
   font-family: monospace;
 }
 
+.image-center {
+  max-width: 100%;
+  margin: 0;
+}
+
+.image-right {
+  float: right;
+  width: 40%;
+  margin: 20px 0 20px 20px;
+}
+
 img {
-    width:100%;
-    height: auto;
-    justify-content: center;
+  max-width:100%;
+  max-height:100%;
+  margin: 0;
+  padding: 0;
+  box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.5);
+}
+
+figcaption {
+  font-size: 0.8em;
 }
 
 ul li {
@@ -152,6 +169,7 @@ body {
 
 hr {
   margin-top: 20px;
+  clear: both;
 }
 
 @media (min-width: 2000px) {

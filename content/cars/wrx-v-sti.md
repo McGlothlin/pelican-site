@@ -5,8 +5,13 @@ Slug: cars/wrx-v-sti
 Category: cars
 Author: Sean McGlothlin
 
-![2016 Subaru WRX](/images/16wrx.jpg)
+<!-- ![2016 Subaru WRX](/images/16wrx.jpg)
 <sup>This is my 2016 Subaru WRX</sup>
+ -->
+<figure class="image-center">
+  <img src="/images/16wrx.jpg"/>
+  <figcaption>This is my 2016 Subaru WRX</figcaption>
+</figure>
 
 ### Oh no, not again...
 
