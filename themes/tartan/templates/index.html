@@ -21,7 +21,14 @@
   <p>
     When I'm not at work, I'm probably playing the bass guitar or learning about cars; there's much to know and I'm new to the scene.
   </p>
-  <p>This site is still under development, so more content is on the way soon.</p>
+  <h3>Recent Articles</h3>
+  <ul>
+  {% for article in articles %}
+    {% if loop.index < 10 %}
+      <li><a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }} - {{ article.locale_date }}</a></li>
+    {% endif %}
+  {% endfor %}
+  </ul>
 {% endblock content %}
 
 {% block main %}
