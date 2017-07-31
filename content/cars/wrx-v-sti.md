@@ -3,6 +3,7 @@ Subtitle: The Battle of the Boxers
 Date: 2017-07-17
 Slug: cars/wrx-v-sti
 Category: cars
+Tags: Cars, Subaru, WRX, STI
 Author: Sean McGlothlin
 
 <!-- ![2016 Subaru WRX](/images/16wrx.jpg)

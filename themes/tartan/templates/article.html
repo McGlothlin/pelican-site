@@ -3,7 +3,18 @@
 {% block title %}{{ article.title }}{% endblock %}
 {% block pagetitle %}{{ SITENAME }}{% endblock %}
 {% block subtitle %}{{ article.title }}{% endblock %}
+
 {% block content %}
+	{% if article.tags %}
+		<div class="center">
+			<p style="margin: 0;">Tags</p>
+		</div>
+	{% endif %}
+	<ul class="taglist">
+		{% for tag in article.tags %}
+			<li class="tag">{{ tag }}</li>
+		{% endfor %}
+	</ul>
 	<h2>{{ article.subtitle }}</h2>
 	{{ article.content }}
 {% endblock %}
