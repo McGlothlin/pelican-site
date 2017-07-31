@@ -3,6 +3,7 @@ Subtitle: The history of my musical journey
 Date: 2017-07-25
 Slug: music/history
 Category: music
+Tags: Music, Absolute Pitch, Violin, Bass
 Author: Sean McGlothlin
 
 When I was very young, I remember admiring people who could play an instrument. The thought that a human could pull a bundle of horse hair across a string or blow into a pipe to make beautiful melodies was such a foreign concept to me, and being a kid from a small town in Alaska with non-musical parents led to an assumption I would never have the chance to learn.
@@ -23,13 +24,13 @@ Perhaps this is why I've always felt an intimate connection to music that I stru
 
 And share it I did. I started playing music at my local church, which was a huge part of my life during the latter half of high school and continues to be relevant to this day. I stuck with the school orchestra until I graduated, but not without picking up several other instruments on the side: the guitar, [upright bass](https://en.wikipedia.org/wiki/Double_bass){:target="_blank"} (when they needed someone to fill in for a concert), viola, and most importantly of all, the [bass guitar](https://en.wikipedia.org/wiki/Bass_guitar){:target="_blank"}. The bass guitar was my first true love. Sorry, Nikki.
 
+### All about that bass
+
 <figure class="image-right">
   <img src="/images/bass.jpg"/>
   <figcaption>This is my 5 string bass, made by <a href="http://marcobassguitars.com/models" target="_blank">Marco Cortes</a> of Dallas, OR
   </figcaption>
 </figure>
-
-### All about that bass
 
 When I was a sophomore in high school, one of my best friends decided he wanted to start a band. He was really into guitar and needed a bassist. I agreed and eventually acquired my first bass guitar, a [Squier jazz bass](https://en.wikipedia.org/wiki/Fender_Jazz_Bass){:target="_blank"}. Armed with my music theory background and the ability to know the notes of any song I listen to, I quickly picked up the new instrument from [YouTube tutorials](https://www.youtube.com/results?search_query=bass+guitar+tutorial){:target="_blank"} and lots of practice. The band didn't work out, but I enjoyed the bass so much I never stopped playing. In fact I played so much that some might consider me to be pretty OK at it. I don't often see people cover their ears, which seems like a good sign (there is, however, a funny story behind that which I'll leave for another post; it was one of my greatest on-stage blunders).
 

@@ -5,7 +5,12 @@ Author: Sean McGlothlin
 
 ## About Me
 
-I pride myself in being a well-rounded individual, which is why I couldn't pick just one topic to write about.
+<figure class="image-right">
+  <img src="/images/sean.jpg"/>
+  <figcaption>Me in my hometown of <a href="http://www.travelgrantspass.com/" target="_blank">Grants Pass</a>, Oregon.</figcaption>
+</figure>
+
+Programmer by trade, musician by nature, car enthusiast for fun. I pride myself in being a well-rounded individual, which is why I couldn't pick just one topic to write about.
 
 If you want to learn more about what I do professionally, you can find me on [GitHub](https://github.com/McGlothlin){:target="_blank"}, [LinkedIn](https://www.linkedin.com/in/smcglothlin){:target="_blank"}, and [Stack Overflow](https://stackoverflow.com/users/5472966/mcglothlin){:target="_blank"}. Please feel free to contact me via LinkedIn (or my email therein) if you would like to chat.
 
