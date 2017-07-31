@@ -5,19 +5,23 @@
 {% block subtitle %}{{ article.title }}{% endblock %}
 
 {% block content %}
+	<h2>{{ article.subtitle }}</h2>
+	{{ article.content }}
+{% endblock content %}
+
+{% block footer %}
 	{% if article.tags %}
-		<div class="center">
-			<p style="margin: 0;">Tags</p>
+{# 		<div class="center">
+			<p class="taglabel center">Tags:</p>
 		</div>
-	{% endif %}
-	<ul class="taglist">
+ #}	{% endif %}
+	<ul class="taglist center">
 		{% for tag in article.tags %}
 			<li class="tag">{{ tag }}</li>
 		{% endfor %}
 	</ul>
-	<h2>{{ article.subtitle }}</h2>
-	{{ article.content }}
-{% endblock %}
+{% endblock footer %}
+
 
 {% block main %}
   {{ super() }}
