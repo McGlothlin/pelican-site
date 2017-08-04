@@ -12,16 +12,16 @@
     <meta property="og:type" content="website"/>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="{{ SITEURL }}/theme/css/plaid.css">
-    <link rel="stylesheet" href="{{ SITEURL }}/theme/css/fonts.css">
     <link rel="stylesheet" href="{{ SITEURL }}/theme/css/main.css">
+    <link rel="stylesheet" href="{{ SITEURL }}/theme/css/fonts.css">
     <link rel="stylesheet" href="{{ SITEURL }}/theme/css/syntax.css">
   </head>
 	<body>
 	  <div id="main">
 			{% block main %}
         <div id="header">
-          <h1 class="center">{% block pagetitle %} {% endblock %}</h1>
-          <h2 class="center">{% block subtitle %} {% endblock %}</h2>
+          <h1 class="center">{% block pagetitle %}{% endblock %}</h1>
+          <h2 class="center">{% block subtitle %}{% endblock %}</h2>
           <ul class="sitemap">
             {% for title, link in MENUITEMS %}
                 <li><a href="{{ link }}">{{ title }}</a></li>

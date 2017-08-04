@@ -48,4 +48,4 @@ Visitors with larger screens will notice a plaid background across the site. Any
 
 [Click here for this site's source code.](https://github.com/McGlothlin/pelican-site){:target="_blank"}
 
-Feel free to check out some of the optimizations I've done using Google's [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/?url=https%3A%2F%2Fseanmcglothlin.com){:target="_blank"} tool.
+Feel free to check out some of the optimizations I've done by viewing this page using Google's [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/?url=https%3A%2F%2Fseanmcglothlin.com/pages/about.html){:target="_blank"} tool.
