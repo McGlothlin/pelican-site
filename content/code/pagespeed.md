@@ -1,6 +1,6 @@
 Title: PageSpeed Optimization
 Subtitle: How I sped up my site using Google's PageSpeed module
-Date: 2017-08-04
+Date: 2017-08-06
 Slug: code/pagespeed
 Category: code
 Tags: Code, Web Development, PageSpeed, nginx
@@ -10,7 +10,7 @@ Having a beautiful website is important, but nobody's going to stick around to a
 
 ### What is PageSpeed?
 
-The [PageSpeed](https://developers.google.com/speed/pagespeed/module/){:target="_blank"} module is a web server plugin, offered for both Apache and nginx. It does all the heavy lifting for you by optimizing resources automatically based on its plethora of configuration settings. This gives you the freedom to fine tune your site in a way that works best for your specific use case, making for both a happy user and a happy developer.
+The [PageSpeed](https://developers.google.com/speed/pagespeed/module/){:target="_blank"} module is a web server plugin, offered for both Apache and nginx. It does all the heavy lifting for you by optimizing resources automatically. This gives you the freedom to fine tune your site in a way that works best for your specific use case, making for both a happy user and a happy developer.
 
 ### Why PageSpeed?
 
@@ -103,7 +103,7 @@ While navigating to my site in Chrome I sometimes experienced a very long "Resol
 pagespeed EnableFilters insert_dns_prefetch;
 ```
 
-Lastly, PageSpeed warned me about blocking CSS that was preventing [above the fold](https://varvy.com/pagespeed/prioritize-visible-content.html){:target="_blank"} content from rendering quickly. The [`prioritize_critical_css`](https://modpagespeed.com/doc/filter-prioritize-critical-css){:target="_blank"} helped mitigate this. I noticed it refactor my CSS to load certain styles first and I was happy with the path it chose.
+Lastly, PageSpeed Insights warned me about blocking CSS that was preventing [above the fold](https://varvy.com/pagespeed/prioritize-visible-content.html){:target="_blank"} content from rendering quickly. The [`prioritize_critical_css`](https://modpagespeed.com/doc/filter-prioritize-critical-css){:target="_blank"} filter helped mitigate this. I noticed it refactor my CSS to load certain styles first and I was happy with the path it chose.
 
 ```text
 pagespeed EnableFilters prioritize_critical_css;
@@ -129,7 +129,7 @@ pagespeed EnableFilters prioritize_critical_css;
 
 I'd say the results speak for themselves!
 
-It's worth noting that this tool isn't perfect. Even if I have a high score I'm not guaranteed a fast page render, and not all pages will score the same. My front page doesn't score perfectly because of that beautiful picture my wife took, though it still scores in the 90s on both desktop and mobile. I've also noticed the scores can fluctuate, presumably due to the module trying different optimizations behind the scenes. In any case, there are clear benefits to using this module versus going at it alone. This simple optimization tool spared me from running around the internet trying to find a bunch of separate tools that yield the same end result.
+It's worth noting that this tool isn't perfect. Even if I have a high score I'm not guaranteed a fast page render, and not all pages will score the same. My front page doesn't score perfectly because of that beautiful picture my wife took, though it still scores in the 90s on both desktop and mobile. I've also noticed the scores can fluctuate, presumably due to the module trying different optimizations behind the scenes. In any case, there are clear benefits to using this module versus going it alone. This simple optimization tool spared me from running around the internet trying to find a bunch of separate tools that yield the same end result.
 
 ### Was all this really necessary?
 
