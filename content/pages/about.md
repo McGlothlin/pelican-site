@@ -38,14 +38,14 @@ Since a CMS has a public-facing database, it is prone to security vulnerabilitie
 
 ### Why plaid?
 
-Visitors with larger screens will notice a plaid background across the site. Anyone who knows me will attest to how much I like plaid. I couldn't tell you why; it's just "fun", as my wife would say. I had fun making my favorite plaid pattern using pure CSS3.
+Visitors with larger screens will notice a plaid background across the site. Anyone who knows me will attest to how much I like plaid. I couldn't tell you why; it's just "fun", as my wife would say. I had fun making my favorite plaid pattern using CSS3.
 
 --------------------
 
 ### More Information
 
-[Click here to learn more about Pelican.](https://blog.getpelican.com){:target="_blank"}
+[Click here](https://blog.getpelican.com){:target="_blank"} to learn more about Pelican.
 
-[Click here for this site's source code.](https://github.com/McGlothlin/pelican-site){:target="_blank"}
+[Click here](https://github.com/McGlothlin/pelican-site){:target="_blank"} for this site's source code.
 
-Feel free to check out some of the optimizations I've done by viewing this page using Google's [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/?url=https%3A%2F%2Fseanmcglothlin.com/pages/about.html){:target="_blank"} tool.
+Check out [this article](../code/pagespeed.html) I wrote to learn about some of the optimizations I've done.
