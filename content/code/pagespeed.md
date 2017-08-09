@@ -48,7 +48,7 @@ TLS SNI support enabled
 configure arguments: --prefix=/etc/nginx ... <stuff> ...
 ```
 
-Take the `configure arguments` output from this command and pass it into the new configuration using the `configure` script provided with the nginx download. 
+Take the `configure arguments` output from this command and pass it into the new configuration using the `configure` script provided with the nginx download.
 
 ```text
 $ ./configure --add-module=$HOME/ngx_pagespeed-<version>-stable ... <configure arguments go here>
@@ -56,7 +56,7 @@ $ ./configure --add-module=$HOME/ngx_pagespeed-<version>-stable ... <configure a
 
 Once configured, install nginx. [Go have a duel or something](https://xkcd.com/303){:target="_blank"}.
 
-```text	
+```text
 $ make install
 ```
 
@@ -89,7 +89,7 @@ Don't forget to restart your web server to apply the changes. Once added, it wil
 
 There are a few other filters not included in the `CoreFilters` configuration that I found to be helpful for performance.
 
-Since I am serving content via HTTPS exclusively, I added the [`MapOriginDomain`](https://modpagespeed.com/doc/domains#mapping_origin){:target="_blank"} and [`LoadFromFile`](https://modpagespeed.com/doc/domains#LoadFromFileScriptVariables){:target="_blank"} filters, the latter of which is nginx-specific.
+Since I am serving content via HTTPS exclusively, I added the [`MapOriginDomain`](https://modpagespeed.com/doc/domains#mapping_origin){:target="_blank"} and [`LoadFromFile`](https://modpagespeed.com/doc/domains#LoadFromFileScriptVariables){:target="_blank"} filters, the latter of which is nginx-specific. Please note that `LoadFromFile` is intended to be used for static sites only, as mentioned in the [risks](https://modpagespeed.com/doc/domains#risks){:target="_blank"} section.
 
 ```text
 pagespeed MapOriginDomain "http://localhost" "https://seanmcglothlin.com";
@@ -103,7 +103,7 @@ While navigating to my site in Chrome I sometimes experienced a very long "Resol
 pagespeed EnableFilters insert_dns_prefetch;
 ```
 
-Lastly, PageSpeed Insights warned me about blocking CSS that was preventing [above the fold](https://varvy.com/pagespeed/prioritize-visible-content.html){:target="_blank"} content from rendering quickly. The [`prioritize_critical_css`](https://modpagespeed.com/doc/filter-prioritize-critical-css){:target="_blank"} filter helped mitigate this. I noticed it refactor my CSS to load certain styles first and I was happy with the path it chose.
+Lastly, PageSpeed Insights warned me about blocking CSS that was preventing [above the fold](https://varvy.com/pagespeed/prioritize-visible-content.html){:target="_blank"} content from rendering quickly. The [`prioritize_critical_css`](https://modpagespeed.com/doc/filter-prioritize-critical-css){:target="_blank"} filter helped mitigate this. I noticed it refactor my CSS to load certain styles first and I was happy with the path it chose, but this filter is not for everyone and carries a moderate risk. See the **Risks** section for more info.
 
 ```text
 pagespeed EnableFilters prioritize_critical_css;
