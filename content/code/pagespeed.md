@@ -22,7 +22,7 @@ There are many possible ways to optimize content delivery, but the PageSpeed mod
 
 Browse to the [PageSpeed documentation](https://modpagespeed.com/doc/){:target="_blank"} for specific installation instructions for your web server. Since I used nginx, I'll outline the steps I took below. If you're using Apache, feel free to skip ahead to the [Configuring PageSpeed](#configure) section below.
 
-I had to recompile nginx from source and remember to include my existing modules such as OpenSSL. I **highly** recommend you don't shut down your web server before attempting this in case you mess up your configuration and are left with a broken production environment while you figure out what you did wrong (go ahead, ask me how I know).
+I had to recompile nginx from source and remember to include my existing modules such as OpenSSL. I **highly** recommend you don't shut down your web server before attempting this in case you mess up your configuration and are left with a broken production environment while you figure out what you did wrong. Go ahead, ask me how I know.
 
 First, get your preferred version of nginx. This may be a good time to update to a later version if you so choose.
 
@@ -93,7 +93,6 @@ Since I am serving content via HTTPS exclusively, I added the [`MapOriginDomain`
 
 ```text
 pagespeed MapOriginDomain "http://localhost" "https://seanmcglothlin.com";
-
 pagespeed LoadFromFile "https://seanmcglothlin.com" <path on disk to content>;
 ```
 
@@ -101,6 +100,13 @@ While navigating to my site in Chrome I sometimes experienced a very long "Resol
 
 ```text
 pagespeed EnableFilters insert_dns_prefetch;
+```
+
+I found that the [`remove_comments`](https://modpagespeed.com/doc/filter-comment-remove){:target="_blank"} and [`collapse_whitespace`](https://modpagespeed.com/doc/filter-whitespace-collapse){:target="_blank"} filters did very little, but included them anyway so I don't send unnecessary bytes over the network.
+
+```text
+pagespeed EnableFilters remove_comments;
+pagespeed EnableFilters collapse_whitespace;
 ```
 
 Lastly, PageSpeed Insights warned me about blocking CSS that was preventing [above the fold](https://varvy.com/pagespeed/prioritize-visible-content.html){:target="_blank"} content from rendering quickly. The [`prioritize_critical_css`](https://modpagespeed.com/doc/filter-prioritize-critical-css){:target="_blank"} filter helped mitigate this. I noticed it refactor my CSS to load certain styles first and I was happy with the path it chose, but this filter is not for everyone and carries a moderate risk. See the **Risks** section for more info.
