@@ -89,9 +89,13 @@ html {
   padding-bottom: 2%;
 }
 
-#content li:before {
+#content ul li:before {
   content: "> ";
   font-family: monospace;
+}
+
+#content ul {
+  padding-left: 15px;
 }
 
 .taglabel {
@@ -153,7 +157,7 @@ html {
   padding: 0;
 }
 
-#footer li:before {
+#footer ul li:before {
   content: none;
 }
 
