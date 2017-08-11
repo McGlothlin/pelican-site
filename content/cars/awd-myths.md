@@ -49,7 +49,13 @@ There are a several things you can do to prepare your vehicle for inclement weat
 
 ### Wait... but aren't you a Subie fanboy?
 
-Why yes, yes I am... and that's exactly why you should listen to me! As much as I like Subaru, I'm sharing this information for the good of all so that I don't have to see anyone else stranded on the side of the road because they ran into a ditch, a telephone pole, or another car after a little rain or snowfall. I also don't want any of you running into me, of course. Anyway, thank you so much for reading this far. Really, it means a lot to me. If you want to learn more, check out the links below.
+Why yes, yes I am... and that's exactly why you should listen to me! As much as I like Subaru and their AWD systems, I'm sharing this information for the good of all so that I don't have to see anyone else stranded on the side of the road because they ran into a ditch, a telephone pole, or another car after a little rain or snowfall. I also don't want any of you running into me, of course.
+
+### Why is AWD so popular?
+
+It's simple: marketing. Most of the time AWD simply isn't necessary on a road car, yet I actually believed many of these myths not so long ago because that's what manufacturers and salespeople told me over and over again. This of course doesn't apply to situations where you're going off road. In those cases, I would absolutely advocate for some sort of AWD or [4WD](https://en.wikipedia.org/wiki/Four-wheel_drive){:target="_blank"} system.\* I've done my best to link as many sources as I could think of, so don't take my word for it; see what the experts have to say. Thank you so much for reading this far. Really, it means a lot to me. If you want to learn more, please check out the links below.
+
+\*There's an old saying that 4WD will still get you stuck, you'll just be twice as far away from civilization when it happens. My dad taught me to keep it in 2WD until you get stuck, then only use 4WD to dig yourself out. It's worked for me so far.
 
 ### More information
 
