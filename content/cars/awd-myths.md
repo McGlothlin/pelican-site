@@ -29,7 +29,7 @@ AWD systems are heavy and complex. This causes a reduction in fuel economy compa
 
 ### Does AWD help you stop faster?
 
-Unfortunately, no. The benefits of AWD end when you let off the go-fast pedal. Stopping is left completely up to your brakes and tires, the latter of which are the only points of contact between your 1.5 ton metal cage and the rest of the world. To properly prepare for bad weather, you're better off having winter tires over an AWD car. It'll save you money too; an extra set of wheels and tires is much cheaper than trading up for a different car or getting into an accident!
+Unfortunately, [no](https://www.consumerreports.org/cro/magazine/2015/09/do-you-really-need-awd-in-the-snow/index.htm){:target="_blank"}. The benefits of AWD end when you let off the go-fast pedal. Stopping is left completely up to your brakes and tires, the latter of which are the only points of contact between your 1.5 ton metal cage and the rest of the world. To properly prepare for bad weather, you're better off having winter tires over an AWD car. It'll save you money too; an extra set of wheels and tires is much cheaper than trading up for a different car or getting into an accident!
 
 ### If AWD isn't the answer to life, the universe, and everything, how can I prepare for bad weather?
 
@@ -45,7 +45,7 @@ There are a several things you can do to prepare your vehicle for inclement weat
 #### Buy winter tires
 
 - OK... this costs decent money, but I cannot stress this point enough. When I bought my car, it came with summer performance tires that become solid hockey pucks below freezing temperatures. Regardless, dedicated winter tires perform far better than all-season tires in cold weather, and just as well in warmer weather. The downside is increased wear, but the benefits could mean the difference between a safe stopping distance and your life literally spiraling out of control.
-- Try not to use studded tires if you can help it. Studless technology these days is good enough where studs aren't really necessary, and studs are terrible for the roads when there's no ice and snow on the ground.
+- Try not to use studded tires if you can help it. [Studless technology these days is good enough](https://www.bridgestonetire.com/tread-and-trend/drivers-ed/snow-tires-studded-tires-vs-studless-tires){:target="_blank"} where studs aren't really necessary, and studs are terrible for the roads when there's no ice and snow on the ground.
 
 ### Wait... but aren't you a Subie fanboy?
 
@@ -56,6 +56,8 @@ Why yes, yes I am... and that's precisely why you should listen to me! As much a
 - [Engineering Explained: AWD Cars](https://youtu.be/UL9LmT3fzbQ){:target="_blank"}
 - [Engineering Explained: What Is The Best AWD System?](https://youtu.be/jm-_Ncjunuc){:target="_blank"}
 - [Car and Driver: AWD systems explained](http://www.caranddriver.com/features/we-dissect-every-type-of-all-wheel-drive-system-feature){:target="_blank"}
+- [Edmunds: AWD pros and cons](https://www.edmunds.com/car-buying/do-you-need-an-all-wheel-drive-or-four-wheel-drive-car.html){:target="_blank"}
+- [Popular Mechanics: AWD myth](http://www.popularmechanics.com/cars/a3091/the-myth-of-the-all-powerful-all-wheel-drive-15202862/){:target="_blank"}
 - [Bridgestone: Studded snow tires vs studless snow tires](https://www.bridgestonetire.com/tread-and-trend/drivers-ed/snow-tires-studded-tires-vs-studless-tires){:target="_blank"}
 - [Tire Rack: Winter tire test results](https://www.tirerack.com/tires/tests/testDisplay.jsp?ttid=193){:target="_blank"}
 - I use [Bridgestone Blizzaks](https://www.bridgestonetire.com/tire-brand/blizzak){:target="_blank"} and they're phenomenal. They've lasted me two seasons and still have plenty of life left.
