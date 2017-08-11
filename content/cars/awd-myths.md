@@ -17,7 +17,7 @@ I live in the [Pacific Northwest](https://en.wikipedia.org/wiki/Pacific_Northwes
 
 ### So, what is AWD?
 
-There are many different types of AWD, and the term can apply to any vehicle that is *capable* of transferring power from the engine to all four wheels. That doesn't necessarily mean power is sent to all four wheels all the time, and it certainly doesn't mean you won't get stuck if you start to lose traction. Rather than list out all the different types of AWD systems out there, I'll provide a few links at the end in case you want to learn more.  
+There are many different types of AWD, and the term can apply to any vehicle that is *capable* of transferring power from the engine to all four wheels. That doesn't necessarily mean power is sent to all four wheels all the time, and it certainly doesn't mean you won't get stuck if you start to lose traction. Rather than list out all the different types of AWD systems out there, I'll provide a few links at the end in case you want to learn more.
 
 ### What are the pros?
 
@@ -44,12 +44,12 @@ There are a several things you can do to prepare your vehicle for inclement weat
 
 #### Buy winter tires
 
-- OK... this costs decent money, but I cannot stress this point enough. When I bought my car, it came with summer performance tires that become solid hockey pucks below freezing temperatures. Regardless, dedicated winter tires perform far better than all-season tires in cold weather, and just as well in warmer weather. The downside is increased wear, but the benefits could mean the difference between a safe stopping distance and your life literally spiraling out of control.
+- OK... this costs decent money, but I cannot stress this point enough. When I bought my car, it came with summer performance tires that become solid hockey pucks below freezing temperatures. Regardless, dedicated winter tires perform far better than all-season tires in cold weather and can even offer [comparable performance in warmer weather](http://www.roadandtrack.com/new-cars/videos/a5604/winter-tires-track-tested/){:target="_blank"}. The only downside is increased wear, but the benefits could mean the difference between a safe stopping distance and your life literally spiraling out of control.
 - Try not to use studded tires if you can help it. [Studless technology these days is good enough](https://www.bridgestonetire.com/tread-and-trend/drivers-ed/snow-tires-studded-tires-vs-studless-tires){:target="_blank"} where studs aren't really necessary, and studs are terrible for the roads when there's no ice and snow on the ground.
 
 ### Wait... but aren't you a Subie fanboy?
 
-Why yes, yes I am... and that's precisely why you should listen to me! As much as I like Subaru, I'm sharing this information for the good of all so that I don't have to see anyone else stranded on the side of the road because they ran into a ditch, a telephone pole, or another car after a little rain or snowfall. I also don't want any of you running into me, of course. Anyway, thank you so much for reading this far. Really, it means a lot to me. If you want to learn more, check out the links below.
+Why yes, yes I am... and that's exactly why you should listen to me! As much as I like Subaru, I'm sharing this information for the good of all so that I don't have to see anyone else stranded on the side of the road because they ran into a ditch, a telephone pole, or another car after a little rain or snowfall. I also don't want any of you running into me, of course. Anyway, thank you so much for reading this far. Really, it means a lot to me. If you want to learn more, check out the links below.
 
 ### More information
 
