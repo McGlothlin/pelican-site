@@ -22,7 +22,7 @@
         <div id="header">
           <h1 class="center">{% block pagetitle %}{% endblock %}</h1>
           <h2 class="center">{% block subtitle %}{% endblock %}</h2>
-          <ul class="sitemap">
+          <ul id="sitemap">
             {% for title, link in MENUITEMS %}
                 <li><a href="{{ link }}">{{ title }}</a></li>
             {% endfor %}
@@ -30,9 +30,7 @@
         </div>
         <div id="content">
           {% block content %}{% endblock content %}
-          <br>
           {% block footer %}{% endblock footer %}
-          <br>
           <hr>
             <div id="footer">
             <ul>
@@ -41,7 +39,7 @@
               <li><a href="https://www.linkedin.com/in/smcglothlin" target="_blank">LinkedIn</a></li>
               <li><a href="https://stackoverflow.com/users/5472966/mcglothlin" target="_blank">Stack Overflow</a></li>
             </ul>
-            <p style="font-size: 0.8em">Content on this site is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/" target="_blank">Creative Commons Attribution-ShareAlike 4.0 International License</a> unless otherwise noted.</p>
+            <p class="center" style="font-size: 0.8em; margin-bottom: 0">Content on this site is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/" target="_blank">Creative Commons Attribution-ShareAlike 4.0 International License</a>.</p>
           </div>
         </div>
       {% endblock main %}

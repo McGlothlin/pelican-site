@@ -46,12 +46,12 @@ html {
 }
 
 #header {
-  margin-bottom: 0;
+  padding-top: 1%;
 }
 
 /* Header Bar */
-#header ul {
-  padding: 0;
+#sitemap {
+  padding:0;
   overflow: hidden;
   background-color: #1A5276;
   text-align: center;
@@ -73,6 +73,7 @@ html {
   font-weight: bold;
   color: WhiteSmoke;
   text-decoration: none;
+  transform: scale(0.98);
   transform-origin: 50% 50%;
   -webkit-transition: box-shadow .1s, transform .1s ease-in-out;
   -moz-transition: box-shadow .1s, transform .1s ease-in-out;
@@ -86,7 +87,7 @@ html {
   margin-right: 8%;
   font-family: 'Noto Sans', sans-serif;
   overflow: visible;
-  padding-bottom: 2%;
+  padding-bottom: 1%;
 }
 
 #content ul li:before {
@@ -143,7 +144,6 @@ html {
 }
 
 #header h1 {
-  padding-top: 10px;
   margin: 0;
 }
 
