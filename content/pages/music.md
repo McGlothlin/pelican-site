@@ -4,4 +4,4 @@ Category: music
 Slug: music
 Author: Sean McGlothlin
 
-## Information on a need-to-know "bass"is
+## Sound bytes from a bassist

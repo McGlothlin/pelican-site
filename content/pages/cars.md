@@ -4,4 +4,4 @@ Category: cars
 Slug: cars
 Author: Sean McGlothlin
 
-## Articles about cars (for best results, add coffee)
+## Your very own Cars and Coffee (bring your own coffee)
