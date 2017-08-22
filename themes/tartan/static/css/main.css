@@ -239,6 +239,14 @@ hr {
   #header ul {
     font-size: 1.1vw;
   }
+
+  #header li a {
+    padding: 1vw;
+  }
+
+  #header li a:hover {
+    box-shadow: none;
+  }
 }
 
 @media (min-width: 1200px) {
