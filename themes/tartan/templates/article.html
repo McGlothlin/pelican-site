@@ -5,16 +5,12 @@
 {% block subtitle %}{{ article.title }}{% endblock %}
 
 {% block content %}
+	<p class="tag">{{ article.locale_date }}</p>
 	<h2>{{ article.subtitle }}</h2>
 	{{ article.content }}
 {% endblock content %}
 
 {% block footer %}
-	{% if article.tags %}
-{# 		<div class="center">
-			<p class="taglabel center">Tags:</p>
-		</div>
- #}	{% endif %}
 	<ul class="taglist center">
 		{% for tag in article.tags %}
 			<li class="tag">{{ tag }}</li>
