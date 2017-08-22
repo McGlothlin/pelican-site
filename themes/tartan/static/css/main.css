@@ -327,14 +327,40 @@ hr {
   }
 
   #header li a {
-    padding-top: 15px;
-    padding-bottom: 15px;
+    padding-top: 20px;
+    padding-bottom: 20px;
     padding-left: 5px;
     padding-right: 5px;
   }
 }
 
-@media (max-width: 300px) {
+@media (max-width: 375px) {
+  #header li a:hover {
+    transform: none;
+    transform-origin: none;
+    box-shadow: none;
+  }
+
+  #header li a {
+    transform: none;
+    transform-origin: none;
+  }
+
+  #header li a {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 0;
+    padding-right: 0;
+  }
+
+  #sitemap {
+    font-size: 0.9em;
+  }
+
+  #content {
+    font-size: 0.8em;
+  }
+
   #footer ul {
     display: inline-block;
     text-align: center;
