@@ -232,30 +232,17 @@ hr {
 }
 
 @media (min-width: 2000px) {
-  #header li a:hover {
-    transform: none;
-    transform-origin: none;
-  }
-
-  #header li a {
-    transform: none;
-    transform-origin: none;
-  }
-
-  #content {
-    font-size: 1vw;
-  }
-
   #header ul {
     font-size: 1.1vw;
   }
 
   #header li a {
     padding: 1vw;
+    width: 4vw;
   }
 
-  #header li a:hover {
-    box-shadow: none;
+  #content {
+    font-size: 1vw;
   }
 }
 
@@ -351,13 +338,11 @@ hr {
 
   #header li a:hover {
     transform: none;
-    transform-origin: none;
     box-shadow: none;
   }
 
   #header li a {
     transform: none;
-    transform-origin: none;
   }
 
   #header li a {
