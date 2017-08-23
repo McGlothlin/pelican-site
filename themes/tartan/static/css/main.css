@@ -73,19 +73,16 @@ html {
   font-weight: bold;
   color: WhiteSmoke;
   text-decoration: none;
-  transform: scale(0.98);
-  transform-origin: 50% 50%;
-  -webkit-transition: box-shadow .1s, transform .1s ease-in-out;
-  -moz-transition: box-shadow .1s, transform .1s ease-in-out;
-  -o-transition: box-shadow .1s, transform .1s ease-in-out;
-  transition: box-shadow .1s, transform .1s ease-in-out;
+  -webkit-transition: box-shadow .15s, background-color .15s ease-in-out;
+  -moz-transition: box-shadow .15s, background-color .15s ease-in-out;
+  -o-transition: box-shadow .15s, background-color .15s ease-in-out;
+  transition: box-shadow .15s, background-color .15s ease-in-out;
 }
 
 #header li a:hover {
-  box-shadow: 0px 0px 9px 1px #00FF2E, inset 0px -1px 0px 0px #00FF2E;
+  box-shadow: 0 0 11px 2px #093, inset 0 0 3px 1px #093;
   text-shadow: 0px 1px 7px rgba(255,255,255,0.5);
-  transform: scale(1.05);
-  transform-origin: 50% 50%;
+  background-color: #174A6A;
 }
 
 #content a:hover {
@@ -334,15 +331,6 @@ hr {
   #header ul {
     flex-wrap: wrap;
     justify-content: center;
-  }
-
-  #header li a:hover {
-    transform: none;
-    box-shadow: none;
-  }
-
-  #header li a {
-    transform: none;
   }
 
   #header li a {
