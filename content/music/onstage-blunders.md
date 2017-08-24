@@ -35,7 +35,7 @@ The poor elderly people in the audience stood there with disgusted looks on thei
 
 Fortunately for my self esteem, the story doesn't end there. We got our act together for the main event and put on a respectable show. To clean things up, we threw in a rendition of [Take Five](https://youtu.be/vmDDOFXSgAs){:target="_blank"} with a twist: the last measure of every phrase had six beats instead of five. We also worked in a slick transition from Take Five to Can't Stop, which we played in the same key. We ditched Knights of Cydonia, our most disastrous tune, so we could be as polished as possible. In the end, everything went smoothly if not perfectly, and we had a blast.
 
-### Lessons Learned
+### Lessons learned
 
 Our whole group learned a lot from this experience, but here were my takeaways:
 
