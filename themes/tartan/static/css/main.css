@@ -75,10 +75,10 @@ html {
   letter-spacing: -0.03em;
   color: WhiteSmoke;
   text-decoration: none;
-  -webkit-transition: box-shadow .15s, background-color .15s ease-in-out;
-  -moz-transition: box-shadow .15s, background-color .15s ease-in-out;
-  -o-transition: box-shadow .15s, background-color .15s ease-in-out;
-  transition: box-shadow .15s, background-color .15s ease-in-out;
+  -webkit-transition: box-shadow .2s, background-color .2s ease-in-out;
+  -moz-transition: box-shadow .2s, background-color .2s ease-in-out;
+  -o-transition: box-shadow .2s, background-color .2s ease-in-out;
+  transition: box-shadow .2s, background-color .2s ease-in-out;
 }
 
 #header li a:hover {
