@@ -7,9 +7,10 @@ Tags: Cars, AWD, Subaru, Tires
 Author: Sean McGlothlin
 
 <figure class="image-center">
-  <img src="/images/forza.jpg"/>
-  <figcaption>Screenshot of me holding a sweet AWD drift in <a href="https://www.forzamotorsport.net/en-us/games/fm6" target="_blank">Forza Motorsport 6</a></figcaption>
+  <img src="/images/subaru_rain.jpg"/>
 </figure>
+
+<br>
 
 I love my WRX. Somehow Subaru was able to make something that's fun to drive and fast around corners, yet easy on your spine when you drive it every day. One of things that "makes a Subaru a Subaru" is all-wheel drive, which comes standard on all of their cars except the [BRZ](http://www.subaru.com/vehicles/brz/index.html){:target="_blank"}. All-wheel drive is a really nice feature, but people often have unrealistic expectations when it comes to using it in inclement weather.
 
