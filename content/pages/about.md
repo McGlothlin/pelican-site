@@ -22,11 +22,11 @@ I've always been into cars, but I've finally entered a stage in my life where I 
 
 ## About This Site
 
-This site is written using Pelican, a static site generator.
+This site was written with the help of [Pelican](https://blog.getpelican.com){:target="_blank"}, a static site generator.
 
 ### Why Pelican?
 
-In the past I developed websites using a full-blown Content Management System (CMS). For those who don't know, a CMS is a web application that comes with its own database and front end templates built in, so users can focus on writing content rather than spending time on the technical details and layout of the site. This is an excellent system in an enterprise environment, especially when content editors are not developers. That being said, I'm just a single developer who values speed, security, and minimalism, so it doesn't make sense for my use case.
+Pelican uses [Jinja2](http://jinja.pocoo.org){:target="_blank"}, a template engine for Python, to eliminate the need for the tedious writing of HTML pages tag by tag. This gives the site a consistent structure with a simple [DOM](https://www.w3.org/TR/DOM-Level-2-Core/introduction.html){:target="_blank"} and is less error prone. In the past I developed websites using a full-blown Content Management System (CMS), but I found most CMSes to be needlessly complex for my use case. For those who don't know, a CMS is a web application that comes with its own database and front end templates built in, so users can focus on writing content rather than spending time on the technical details and layout of the site. This is an excellent system in an enterprise environment, especially when content editors are not developers.
 
 ### So, static sites are faster?
 
@@ -43,8 +43,6 @@ Visitors with larger screens will notice a plaid background across the site. Any
 --------------------
 
 ### More Information
-
-[Click here](https://blog.getpelican.com){:target="_blank"} to learn more about Pelican.
 
 [Click here](https://github.com/McGlothlin/pelican-site){:target="_blank"} for this site's source code.
 
