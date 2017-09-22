@@ -45,12 +45,12 @@ PLUGINS = ['pelican_youtube']
 # Uncomment following line if you want document-relative URLs when developing
 RELATIVE_URLS = True
 
-# Social widget
-SOCIAL = (('You can add links in your config file', '#'),
-          ('Another social link', '#'),)
 SITENAME = AUTHOR
 SITESUBTITLE = 'Developer | Musician | Car&nbsp;Enthusiast'
 SITEURL = 'https://seanmcglothlin.com'
+# Social widget
+SOCIAL = (('You can add links in your config file', '#'),
+          ('Another social link', '#'),)
 STATIC_PATHS = ['images', 'extra/robots.txt', 'extra/favicon.ico', 'pages', 'code', 'music', 'cars']
 SYNTAX_THEME='monokai'
 
