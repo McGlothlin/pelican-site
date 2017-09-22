@@ -10,6 +10,20 @@ html {
   overflow-x: hidden;
 }
 
+body {
+  margin-top: 0px;
+  margin-bottom: 0px;
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
+.scrolling-sitemap {
+  position: fixed;
+  top: 0;
+  width: 80%; /* 100% - body margin percentage */
+  margin: 0;
+}
+
 /* Custom scrollbar */
 ::-webkit-scrollbar {
   width: 4px;
@@ -48,14 +62,6 @@ html {
 
 #header {
   padding-top: 1%;
-}
-
-.scrolling-sitemap {
-  position: fixed;
-  top: 0;
-  left: 0;
-  width: 100%;
-  margin: inherit;
 }
 
 /* Header Bar */
@@ -247,13 +253,6 @@ h3, h4, h5, h6 {
   margin-bottom: 10px;
 }
 
-body {
-  margin-top: 0px;
-  margin-bottom: 0px;
-  margin-left: 10%;
-  margin-right: 10%;
-}
-
 hr {
   margin-top: 20px;
   clear: both;
@@ -289,6 +288,10 @@ hr {
   body {
     margin-left: 20%;
     margin-right: 20%;
+  }
+
+  .scrolling-sitemap {
+    width: 60%;
   }
 }
 
@@ -330,6 +333,10 @@ hr {
 
   body {
     margin: 0;
+  }
+
+  .scrolling-sitemap {
+    width: 100%;
   }
 
   #header h1 {
