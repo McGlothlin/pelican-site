@@ -180,6 +180,7 @@ body {
   -moz-transition: color, background-color .1s ease-in;
   -o-transition: color, background-color .1s ease-in;
   transition: color, background-color .1s ease-in;
+  text-decoration: none;
 }
 
 #header h1 {
