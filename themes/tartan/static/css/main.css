@@ -232,12 +232,9 @@ ul li {
 }
 
 pre {
-  white-space: pre-wrap;
-  white-space: -moz-pre-wrap;
-  white-space: -pre-wrap;
-  white-space: -o-pre-wrap;
-  word-wrap: break-word;
   padding: 8px 8px 8px 8px;
+  font-size: 0.8em;
+  overflow-x: auto;
 }
 
 p {
