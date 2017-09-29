@@ -8,16 +8,16 @@ Author: Sean McGlothlin
 
 This may come as a surprise, but when I worked at Oracle, I used an Oracle database. Connection to an Oracle database is established using a module called cx_Oracle when programming in Python. This module, while extremely useful, can be tricky to set up the first time if you're not running Windows. Since I've had to do this several times across several operating systems, I wanted to write an article about it with the hope that it would someone else in the future... and that someone could very well be me when I inevitably forget.
 
-The process for installing cx_Oracle is fairly simple on Windows, as there is an installer that makes this relatively painless. For now, I'll skip this one and redirect you to the [Python Package Index download](https://pypi.python.org/pypi/cx_Oracle/6.0rc1){:target="_blank"}.
+The process for installing cx_Oracle is fairly simple on Windows, as there is an installer that makes this relatively painless. For now, I'll skip this one and redirect you to the [Python Package Index download](https://pypi.python.org/pypi/cx_Oracle/6.0rc1){:target="\_blank"}.
 
 ### Requirements
 
 The following components need to be in place for this module to work:
 
-- Python 2.7, 3.4, 3.5, or 3.6 (according to the [documentation](https://cx-oracle.readthedocs.io/en/latest/){:target="_blank"})
-- [Oracle Instant Client](http://www.oracle.com/technetwork/database/features/instant-client/index-097480.html){:target="_blank"}
+- Python 2.7, 3.4, 3.5, or 3.6 (according to the [documentation](https://cx-oracle.readthedocs.io/en/latest/){:target="\_blank"})
+- [Oracle Instant Client](http://www.oracle.com/technetwork/database/features/instant-client/index-097480.html){:target="\_blank"}
 - Shared objects need to be linked, as described below
-- [cx_Oracle](https://pypi.python.org/pypi/cx_Oracle/6.0rc1){:target="_blank"} module itself
+- [cx_Oracle](https://pypi.python.org/pypi/cx_Oracle/6.0rc1){:target="\_blank"} module itself
 - **Python, cx_Oracle, and Instant Client *must* all be the same architecture version.** I may have learned this the hard way...
 
 ### Configure the Oracle Instant Client and link shared objects
@@ -96,4 +96,4 @@ Once the module is installed, it must be imported into the script:
 
 If there are no errors, then cx_Oracle was installed successfully! You should definitely go grab a beer at this point if you're not at work.
 
-For further information, please see the [cx_Oracle documentation](https://cx-oracle.readthedocs.io/en/latest/){:target="_blank"}.
+For further information, please see the [cx_Oracle documentation](https://cx-oracle.readthedocs.io/en/latest/){:target="\_blank"}.
