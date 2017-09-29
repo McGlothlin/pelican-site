@@ -1,4 +1,4 @@
-PY?=python3
+PY?=python#3
 PELICAN?=pelican
 PELICANOPTS=
 

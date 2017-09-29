@@ -2,7 +2,7 @@ Title: Subaru WRX vs. STI
 Subtitle: The Battle of the Boxers
 Date: 2017-07-17
 Slug: cars/wrx-v-sti
-Category: cars
+Category: Cars
 Tags: Cars, Subaru, WRX, STI
 Author: Sean McGlothlin
 

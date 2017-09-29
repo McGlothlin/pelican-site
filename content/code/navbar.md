@@ -2,7 +2,7 @@ Title: Scrolling Navigation Bar
 Subtitle: A tutorial on my implementation
 Date: 2017-09-29
 Slug: code/navbar
-Category: code
+Category: Code
 Tags: Tutorial, JavaScript, HTML, CSS
 Author: Sean McGlothlin
 
@@ -10,7 +10,7 @@ Although I really like the look of my site, I'm always trying to think of more t
 
 Recently I've noticed a trend where developers will fix the navigation bar to the top of the page so it scrolls down when you do. While I like the scrolling aspect, I never could come up with a design for my own site that placed the navbar at this location and left me satisifed with the look and feel. I wanted to do something a little different than everyone else.
 
-I stumbled upon [this code snippet](https://codepen.io/JGallardo/pen/lJoyk){:target="\_blank"} that gave me that "aha!" moment I had been looking for. While my theme had been written entirely in CSS up until this point, it was time to bust out some JavaScript/jQuery chops to make this work. Below is a look under the hood at what I'm doing.
+Last week I stumbled upon [this code snippet](https://codepen.io/JGallardo/pen/lJoyk){:target="\_blank"} which gave me that "aha!" moment I had been looking for. While my theme had been written entirely in CSS up until this point, it was time to bust out some JavaScript/jQuery chops to make this work. Below is a look under the hood at what I'm doing.
 
 ---
 
