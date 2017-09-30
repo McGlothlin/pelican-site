@@ -7,7 +7,7 @@
 	{{ page.content }}
 	<ul>
 	{% for article in articles if page.category == article.category %}
-		<li><a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a> - {{article.locale_date}}</li>
+		<li><a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a></li>
 	{% endfor %}
 	{% for article in articles|sort(attribute='title')  if page.category == 'all' %}
 		<li><a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a></li>

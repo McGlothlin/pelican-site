@@ -82,7 +82,7 @@ body {
   padding: 20px;
   margin-left: 10px;
   margin-right: 10px;
-  width: 60px;
+  width: 120px;
   font-weight: 500;
   letter-spacing: -0.03em;
   color: WhiteSmoke;
@@ -315,7 +315,7 @@ hr {
   #header li a {
     margin-left: 0px;
     margin-right: 0px;
-    width: 50px;
+    width: 60px;
   }
 
   #content {

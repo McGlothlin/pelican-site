@@ -34,9 +34,7 @@ LINKS = (('Pelican', 'http://getpelican.com/'),
 #Menu
 MENUITEMS = (('Home', '/index.html'),
              ('Blog', '/pages/blog.html'),
-             ('Code', '/pages/code.html'),
-             ('Music', '/pages/music.html'),
-             ('Cars', '/pages/cars.html'),
+             ('About', '/pages/about.html'),
             )
 
 PATH = 'content'
