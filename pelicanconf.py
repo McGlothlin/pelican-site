@@ -2,9 +2,15 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
+
+AUTHOR = 'Sean McGlothlin'
+SITENAME = AUTHOR
+SITESUBTITLE = 'Developer | Musician | Car&nbsp;Enthusiast'
+SITEURL = 'https://seanmcglothlin.com'
+
+
 ARTICLE_URL = '{slug}.html'
 ARTICLE_SAVE_AS = '{slug}.html'
-AUTHOR = 'Sean McGlothlin'
 # Feed generation is usually not desired when developing
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
@@ -32,7 +38,7 @@ LINKS = (('Pelican', 'http://getpelican.com/'),
          ('You can modify those links in your config file', '#'),)
 
 #Menu
-MENUITEMS = (('Home', '/index.html'),
+MENUITEMS = (('Home', SITEURL),
              ('Blog', '/pages/blog.html'),
              ('About', '/pages/about.html'),
             )
@@ -43,9 +49,6 @@ PLUGINS = ['pelican_youtube']
 # Uncomment following line if you want document-relative URLs when developing
 RELATIVE_URLS = True
 
-SITENAME = AUTHOR
-SITESUBTITLE = 'Developer | Musician | Car&nbsp;Enthusiast'
-SITEURL = 'https://seanmcglothlin.com'
 # Social widget
 SOCIAL = (('You can add links in your config file', '#'),
           ('Another social link', '#'),)
