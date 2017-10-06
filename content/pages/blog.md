@@ -3,6 +3,7 @@ Subtitle: Blog
 Slug: blog
 Category: All
 Author: Sean McGlothlin
+Alias: /pages/blog.html
 
 <figure class="image-right">
   <img src="/images/miata.jpg"/>

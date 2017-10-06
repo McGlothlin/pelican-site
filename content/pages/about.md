@@ -2,6 +2,7 @@ Title: Sean McGlothlin
 Subtitle: About
 Slug: about
 Author: Sean McGlothlin
+Alias: /pages/about.html
 
 ## About Me
 
