@@ -1,7 +1,7 @@
 Title: Live Performance Blunders
 Subtitle: It's OK to mess up onstage
 Date: 2017-08-21
-Slug: music/onstage-blunders
+Slug: blog/music/onstage-blunders
 Category: Music
 Tags: Music, Audience, Jazz, Improvisation
 Author: Sean McGlothlin

@@ -1,7 +1,7 @@
 Title: Scrolling Navigation Bar
 Subtitle: A tutorial on my implementation
 Date: 2017-09-29
-Slug: code/navbar
+Slug: blog/code/navbar
 Category: Code
 Tags: Tutorial, JavaScript, HTML, CSS
 Author: Sean McGlothlin

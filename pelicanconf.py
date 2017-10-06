@@ -9,8 +9,8 @@ SITESUBTITLE = 'Developer | Musician | Car&nbsp;Enthusiast'
 SITEURL = 'https://seanmcglothlin.com'
 
 
-ARTICLE_URL = '{slug}.html'
-ARTICLE_SAVE_AS = '{slug}.html'
+ARTICLE_URL = '{slug}'
+ARTICLE_SAVE_AS = '{slug}/index.html'
 # Feed generation is usually not desired when developing
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
@@ -38,11 +38,13 @@ LINKS = (('Pelican', 'http://getpelican.com/'),
          ('You can modify those links in your config file', '#'),)
 
 #Menu
-MENUITEMS = (('Home', SITEURL),
-             ('Blog', '/pages/blog.html'),
-             ('About', '/pages/about.html'),
+MENUITEMS = (('Home', '/'),
+             ('Blog', '/blog'),
+             ('About', '/about'),
             )
 
+PAGE_URL = '{slug}'
+PAGE_SAVE_AS = '{slug}/index.html'
 PATH = 'content'
 PLUGINS = ['pelican_youtube']
 

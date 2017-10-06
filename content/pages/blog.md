@@ -10,8 +10,8 @@ Author: Sean McGlothlin
 
 ## Pages by category
 
-###[Cars](../pages/cars.html)
-###[Code](../pages/code.html)
-###[Music](../pages/music.html)
+###[Cars](../blog/cars)
+###[Code](../blog/code)
+###[Music](../blog/music)
 
 ##All blog articles
