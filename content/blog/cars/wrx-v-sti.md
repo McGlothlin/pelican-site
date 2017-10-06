@@ -5,6 +5,7 @@ Slug: blog/cars/wrx-v-sti
 Category: Cars
 Tags: Cars, Subaru, WRX, STI
 Author: Sean McGlothlin
+Alias: /cars/wrx-v-sti.html
 
 <figure class="image-center">
   <img src="/images/16wrx.jpg"/>

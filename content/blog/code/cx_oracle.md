@@ -5,6 +5,7 @@ Slug: blog/code/cx_oracle
 Category: Code
 Tags: Tutorial, Python, Linux, cx_Oracle
 Author: Sean McGlothlin
+Alias: /code/cx_oracle.html
 
 This may come as a surprise, but when I worked at Oracle, I used an Oracle database. Connection to an Oracle database is established using a module called cx_Oracle when programming in Python. This module, while extremely useful, can be tricky to set up the first time if you're not running Windows. Since I've had to do this several times across several operating systems, I wanted to write an article about it with the hope that it would someone else in the future... and that someone could very well be me when I inevitably forget.
 

@@ -5,6 +5,7 @@ Slug: blog/code/pagespeed
 Category: Code
 Tags: Code, Web Development, PageSpeed, nginx
 Author: Sean McGlothlin
+Alias: /code/pagespeed.html
 
 Having a beautiful website is important, but nobody's going to stick around to appreciate it if the content is too slow to load. Static content alone can bring rendering to a crawl when performance is overlooked, even when the static resources are seemingly simple. With this in mind, I set out to deliver my site content as fast as possible and learn the best practices to make it happen.
 

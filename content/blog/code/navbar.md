@@ -5,6 +5,7 @@ Slug: blog/code/navbar
 Category: Code
 Tags: Tutorial, JavaScript, HTML, CSS
 Author: Sean McGlothlin
+Alias: /code/navbar.html
 
 Although I really like the look of my site, I'm always trying to think of more things I can do to improve the look and feel. I often browse the web looking for inspiration from beautiful sites designed by those more experienced than me. Some of my favorite things to look at are shadows, typography, colors, page layout, and responsiveness.
 

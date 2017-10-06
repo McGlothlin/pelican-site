@@ -5,6 +5,7 @@ Slug: blog/cars/awd-myths
 Category: Cars
 Tags: Cars, AWD, Subaru, Tires
 Author: Sean McGlothlin
+Alias: /cars/awd-myths.html
 
 <figure class="image-center">
   <img src="/images/subaru_rain.jpg"/>

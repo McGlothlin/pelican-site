@@ -5,6 +5,7 @@ Slug: blog/music/history
 Category: Music
 Tags: Music, Absolute Pitch, Violin, Bass
 Author: Sean McGlothlin
+Alias: /music/history.html
 
 When I was very young, I remember admiring people who could play an instrument. The thought that a human could pull a bundle of horse hair across a string or blow into a pipe to make beautiful melodies was such a foreign concept to me, and being a kid from a small town in Alaska with non-musical parents led to an assumption I would never have the chance to learn.
 

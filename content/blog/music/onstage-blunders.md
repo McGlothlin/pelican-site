@@ -5,6 +5,7 @@ Slug: blog/music/onstage-blunders
 Category: Music
 Tags: Music, Audience, Jazz, Improvisation
 Author: Sean McGlothlin
+Alias: /music/onstage-blunders.html
 
 Nobody is perfect. Even if you're an excellent musician and have been playing in front of people for years you will mess up. Whether your mistake is subtle enough to be hidden with a straight face or painfully obvious to anyone but the deaf, the best part of messing up is you can learn from your experiences and do better next time. Throughout my musical career I've endured many cringeworthy experiences. Below is an example of one such error that happened recently and a list of things I learned from the experience.
 
