@@ -198,6 +198,11 @@ body {
   padding: 0;
 }
 
+#footer ul li {
+  width: 100%;
+  text-align: center;
+}
+
 #footer ul li:before {
   content: none;
 }
