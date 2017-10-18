@@ -2,8 +2,8 @@ Title: PageSpeed Optimization
 Subtitle: How I sped up my site using Google's PageSpeed module
 Date: 2017-08-06
 Slug: blog/code/pagespeed
-Category: Code
-Tags: Code, Web Development, PageSpeed, nginx
+Category: code
+Tags: Code
 Author: Sean McGlothlin
 Alias: /code/pagespeed.html
 

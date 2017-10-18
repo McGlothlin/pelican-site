@@ -5,17 +5,17 @@
 {% block subtitle %}{{ article.title }}{% endblock %}
 
 {% block content %}
-	<p class="tag" style="margin: 0; margin-top: 20px;">{{ article.locale_date }}</p>
+	<ul class="taglist">
+		{% for tag in article.tags %}
+			<li class="tag"><a href="/blog/{{ article.category }}">{{ tag }}</a></li>
+		{% endfor %}
+		<li class="tag">{{ article.locale_date }}</li>
+	</ul>
 	<h2>{{ article.subtitle }}</h2>
 	{{ article.content }}
 {% endblock content %}
 
 {% block footer %}
-	<ul class="taglist center">
-		{% for tag in article.tags %}
-			<li class="tag">{{ tag }}</li>
-		{% endfor %}
-	</ul>
 {% endblock footer %}
 
 

@@ -2,8 +2,8 @@ Title: AWD and Inclement Weather
 Subtitle: AWD means all-wheel drive, not all-wheel stop.
 Date: 2017-08-10
 Slug: blog/cars/awd-myths
-Category: Cars
-Tags: Cars, AWD, Subaru, Tires
+Category: cars
+Tags: Cars
 Author: Sean McGlothlin
 Alias: /cars/awd-myths.html
 

@@ -2,8 +2,8 @@ Title: The Gift of Music
 Subtitle: The history of my musical journey
 Date: 2017-07-25
 Slug: blog/music/history
-Category: Music
-Tags: Music, Absolute Pitch, Violin, Bass
+Category: music
+Tags: Music
 Author: Sean McGlothlin
 Alias: /music/history.html
 

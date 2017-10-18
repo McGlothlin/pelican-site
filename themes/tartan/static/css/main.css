@@ -117,7 +117,7 @@ body {
 #content h1, h2 {
   font-family: 'Ubuntu', sans-serif;
   font-weight: 500;
-  margin-top: 25px;
+  margin-top: 15px;
   margin-bottom: 10px;
 }
 
@@ -134,24 +134,16 @@ body {
   padding-left: 15px;
 }
 
-.taglabel {
-  margin: 5px;
-  padding: 5px;
-  float: left;
-}
-
 .taglist {
-  padding: 0;
-  margin: 0;
-  overflow: visible;
-  font-size: 1.1em;
+  padding-left: 0 !important;
 }
 
 .tag {
   -webkit-box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.14), 0 1px 5px 0 rgba(0, 0, 0, 0.12), 0 3px 1px -2px rgba(0, 0, 0, 0.2);
   box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.14), 0 1px 5px 0 rgba(0, 0, 0, 0.12), 0 3px 1px -2px rgba(0, 0, 0, 0.2);
-  margin: 5px;
   padding: 5px;
+  margin-top: 5px;
+  margin-right: 10px;
   display: inline-block;
 }
 

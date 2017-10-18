@@ -2,8 +2,8 @@ Title: Python: Installing cx_Oracle
 Subtitle: Astonishingly tough to get right the first time...
 Date: 2017-07-18
 Slug: blog/code/cx_oracle
-Category: Code
-Tags: Tutorial, Python, Linux, cx_Oracle
+Category: code
+Tags: Code
 Author: Sean McGlothlin
 Alias: /code/cx_oracle.html
 
