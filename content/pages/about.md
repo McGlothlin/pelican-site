@@ -23,7 +23,7 @@ I've always been into cars, but I've finally entered a stage in my life where I 
 
 ## About This Site
 
-This site was written with the help of [Pelican](https://blog.getpelican.com){:target="\_blank"}, a static site generator. The theme is responsive, scaling nicely on all screen sizes. I wrote the theme from scratch using CSS and a dash of jQuery for the scrolling navigation bar.
+This site was written with the help of [Pelican](https://blog.getpelican.com){:target="\_blank"}, a static site generator. The theme is responsive, scaling nicely on all screen sizes. I wrote the theme from scratch using CSS and a dash of jQuery for the [scrolling navigation bar](../blog/code/navbar).
 
 ### Why Pelican?
 
