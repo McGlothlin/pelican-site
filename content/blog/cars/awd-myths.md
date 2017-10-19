@@ -27,7 +27,7 @@ The biggest pro is added traction under acceleration. This means when you floor 
 
 ### What are the cons?
 
-AWD systems are heavy and complex. This causes a reduction in fuel economy compared to a comparable front-wheel drive or rear-wheel drive vehicle due to the added weight and [drivetrain power loss](https://youtu.be/BOFVnkrkQ6k){:target="\_blank"}. The added complexity also requires additional maintenance. For example, if you neglect to rotate your tires religiously, you could mess up the differentials. Information like this is listed in the owner's manual so there's nothing to worry about if you know your maintenance schedule. You do know your vehicle's specific maintenance schedule, right?
+AWD systems are heavy and complex. This causes a reduction in fuel economy compared to a front-wheel drive or rear-wheel drive vehicle due to the added weight and [drivetrain power loss](https://youtu.be/BOFVnkrkQ6k){:target="\_blank"}. The added complexity also requires additional maintenance. For example, if you neglect to rotate your tires religiously, you could mess up the differentials. Information like this is listed in the owner's manual so there's nothing to worry about if you know your maintenance schedule. You do know your vehicle's specific maintenance schedule, right?
 
 ### Does AWD help you stop faster?
 
@@ -37,14 +37,14 @@ Unfortunately, [no](https://www.consumerreports.org/cro/magazine/2015/09/do-you-
 
 There are a several things you can do to prepare your vehicle for inclement weather right now, many of which don't even cost money!
 
-#### Know how your vehicle performs at and beyond its limit
+### Know how your vehicle performs at and beyond its limit
 
 - Hone your driving skills so you know what will happen if you lose traction and start to slide. I highly recommend the book [How To Drive](https://www.amazon.com/How-Drive-Instruction-Advice-Hollywoods/dp/1452145296/ref=pd_lpo_sbs_14_img_0?_encoding=UTF8&psc=1&refRID=VVK5Z5KCYMBQ6GMBNB2C){:target="\_blank"} by Ben Collins; the former [Stig](https://en.wikipedia.org/wiki/The_Stig){:target="\_blank"} knows what he's talking about.
 	- Autocross will certainly help with this. Bonus points if it rains.
 - Remember to give gentle inputs for throttle, steering, and braking in low-grip situations to avoid losing traction. A slipping tire has less grip than a rolling tire.
 - Always increase your braking and following distance when the ground is not bone dry!
 
-#### Buy winter tires
+### Buy winter tires
 
 - OK... tires ain't cheap, but I cannot stress this point enough. When I bought my car, it came with summer performance tires that become solid hockey pucks below freezing temperatures. Regardless, dedicated winter tires perform far better than all-season tires in cold weather and can even offer [comparable performance in warmer weather](http://www.roadandtrack.com/new-cars/videos/a5604/winter-tires-track-tested/){:target="\_blank"}. The only downside is increased wear, but the benefits could mean the difference between a safe stopping distance and your life literally spiraling out of control.
 - Try not to use studded tires if you can help it. [Studless technology these days is good enough](https://www.bridgestonetire.com/tread-and-trend/drivers-ed/snow-tires-studded-tires-vs-studless-tires){:target="\_blank"} where studs aren't really necessary, and studs are terrible for the roads when there's no ice and snow on the ground.
