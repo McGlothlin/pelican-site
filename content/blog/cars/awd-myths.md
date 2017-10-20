@@ -40,7 +40,7 @@ There are a several things you can do to prepare your vehicle for inclement weat
 ### Know how your vehicle performs at and beyond its limit
 
 - Hone your driving skills so you know what will happen if you lose traction and start to slide. I highly recommend the book [How To Drive](https://www.amazon.com/How-Drive-Instruction-Advice-Hollywoods/dp/1452145296/ref=pd_lpo_sbs_14_img_0?_encoding=UTF8&psc=1&refRID=VVK5Z5KCYMBQ6GMBNB2C){:target="\_blank"} by Ben Collins; the former [Stig](https://en.wikipedia.org/wiki/The_Stig){:target="\_blank"} knows what he's talking about.
-	- Autocross will certainly help with this. Bonus points if it rains.
+- Autocross will certainly help with this. Bonus points if it rains.
 - Remember to give gentle inputs for throttle, steering, and braking in low-grip situations to avoid losing traction. A slipping tire has less grip than a rolling tire.
 - Always increase your braking and following distance when the ground is not bone dry!
 
