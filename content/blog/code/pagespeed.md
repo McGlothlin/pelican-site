@@ -132,8 +132,6 @@ pagespeed EnableFilters prioritize_critical_css;
   <img src="/images/pagespeed_good.png"/>
 </figure>
 
-<br>
-
 I'd say the results speak for themselves!
 
 It's worth noting that this tool isn't perfect. Even if I have a high score I'm not guaranteed a fast page render, and not all pages will score the same. My front page doesn't score perfectly because of that beautiful picture my wife took, though it still scores in the 90s on both desktop and mobile. I've also noticed the scores can fluctuate, presumably due to the module trying different optimizations behind the scenes. Perhaps it requires a certain number of hits before content can be optimized, which would explain why my site scores in the 70s or 80s when PageSpeed Insights is first run after a deployment, but numbers quickly improve on subsequent runs. In any case, there are clear benefits to using this module versus going it alone. This simple optimization tool spared me from running around the internet trying to find a bunch of separate tools that yield the same end result.

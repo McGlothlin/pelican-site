@@ -11,8 +11,6 @@ Alias: /cars/awd-myths.html
   <img src="/images/subaru_rain.jpg"/>
 </figure>
 
-<br>
-
 I love my WRX. Somehow Subaru was able to make something that's fun to drive and fast around corners, yet easy on your spine when you drive it every day. One of things that "makes a Subaru a Subaru" is all-wheel drive, which comes standard on all of their cars except the [BRZ](http://www.subaru.com/vehicles/brz/index.html){:target="\_blank"}. All-wheel drive is a really nice feature, but people often have unrealistic expectations when it comes to using it in inclement weather.
 
 I live in the [Pacific Northwest](https://en.wikipedia.org/wiki/Pacific_Northwest){:target="\_blank"}. For those who don't know, this region is a [temperate rainforest](https://en.wikipedia.org/wiki/Temperate_rainforest){:target="\_blank"} which receives a lot of rain, but not a lot of snow. When it does finally snow, all hell breaks loose; many drivers and vehicles are not equipped to handle the freezing temperatures, and this brings traffic around the Portland metro area to a standstill. From the few snows we had this year, I witnessed the aftermath of countless accidents and stranded vehicles. Fortunately I was not involved in any of them. I'm writing this article with high hopes that it might clear up some common myths about what AWD machines are capable of, since many of these accidents could have been avoided if the proper precautions were taken.

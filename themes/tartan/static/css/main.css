@@ -119,8 +119,8 @@ body {
 #content h1, h2 {
   font-family: 'Ubuntu', sans-serif;
   font-weight: 500;
-  margin-top: 15px;
-  margin-bottom: 10px;
+  margin-top: 20px;
+  margin-bottom: 8px;
 }
 
 #content h2 {
@@ -132,10 +132,14 @@ body {
   font-family: monospace;
 }
 
+#content > .taglist {
+  margin-top: 20px;
+}
+
 #content ul {
   padding-left: 15px;
   margin-top: 0;
-  margin-bottom: 25px;
+  margin-bottom: 20px;
 }
 
 .taglist {
@@ -245,8 +249,12 @@ pre {
 }
 
 p {
-  margin-top: 0;
+  margin-top: 25px;
   margin-bottom: 25px;
+}
+
+#content p + ul {
+  margin-bottom: 40px;
 }
 
 h3, h4, h5, h6 {
@@ -257,9 +265,22 @@ h3, h4, h5, h6 {
   margin-bottom: 8px;
 }
 
+h1 + p, h2 + p, h3 + p, h4 + p, h5 + p, h6 + p {
+  margin-top: 0px;
+}
+
+.image-right + p {
+  margin-top: 0px;
+}
+
 hr {
-  margin-top: 20px;
+  margin-top: 40px;
+  margin-bottom: 40px;
   clear: both;
+}
+
+#footer hr {
+  margin-bottom: 20px;
 }
 
 @media (min-width: 2000px) {
