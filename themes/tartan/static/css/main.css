@@ -231,6 +231,10 @@ img {
   box-shadow: 0px 3px 11px rgba(0, 0, 0, 0.5);
 }
 
+figure.image-right > img {
+  margin-top: 0;
+}
+
 figcaption {
   font-size: 0.8em;
   margin-top: 5px;
