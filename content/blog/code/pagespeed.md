@@ -63,6 +63,8 @@ $ make install
 
 Before you touch anything else, make sure your install was successful. If it is, you're probably safe to restart nginx and load the new configuration.
 
+<a name="configure"></a>
+
 ```text
 $ nginx -t
 $ nginx restart
@@ -70,7 +72,7 @@ $ nginx restart
 
 ---
 
-### <a name="configure"></a> Configuring PageSpeed
+### Configuring PageSpeed
 
 With the installation out of the way, you can move onto the fun stuff. PageSpeed offers a plethora of configuration options which can be overwhelming at first, but initial setup can be simplified immensely by using one of a few [base filters](https://modpagespeed.com/doc/config_filters#level){:target="\_blank"}:
 
