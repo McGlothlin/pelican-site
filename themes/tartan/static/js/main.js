@@ -1,5 +1,5 @@
 $(window).scroll(function() {
-	
+
 	if ($(window).scrollTop() >= ($('#header').outerHeight(true) - $('#sitemap').outerHeight(false))) {
 		height = $('#header').outerHeight(true);
 		$('#sitemap').addClass('scrolling-sitemap');

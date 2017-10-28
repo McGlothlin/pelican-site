@@ -41,6 +41,7 @@ LINKS = (('Pelican', 'http://getpelican.com/'),
 MENUITEMS = (('Home', '/'),
              ('Blog', '/blog'),
              ('About', '/about'),
+             ('Contact', '/contact'),
             )
 
 PAGE_URL = '{slug}'
