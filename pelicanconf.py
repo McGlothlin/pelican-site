@@ -18,7 +18,7 @@ AUTHOR_URL = 'pages/about.html'
 
 CATEGORY_FEED_ATOM = None
 
-DEFAULT_DATE_FORMAT = '%A, %B %d %Y'
+DEFAULT_DATE_FORMAT = '%A, %B %d, %Y'
 DEFAULT_LANG = 'en'
 DEFAULT_PAGINATION = 10
 DIRECT_TEMPLATES = ['index']
