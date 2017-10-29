@@ -11,7 +11,7 @@ Alias: /cars/awd-myths.html
   <img src="/images/subaru_rain.jpg"/>
 </figure>
 
-I love my WRX. Somehow Subaru was able to make something that's fun to drive and fast around corners, yet easy on your spine when you drive it every day. One of things that "makes a Subaru a Subaru" is all-wheel drive, which comes standard on all of their cars except the [BRZ](http://www.subaru.com/vehicles/brz/index.html){:target="\_blank"}. All-wheel drive is a really nice feature, but people often have unrealistic expectations when it comes to using it in inclement weather.
+I love my WRX. Somehow Subaru was able to make something that's fun to drive and fast around corners, yet easy on your spine when you drive it every day. One of the things that "makes a Subaru a Subaru" is all-wheel drive, which comes standard on all of their cars except the [BRZ](http://www.subaru.com/vehicles/brz/index.html){:target="\_blank"}. All-wheel drive is a really nice feature, but people often have unrealistic expectations when it comes to using it in inclement weather.
 
 I live in the [Pacific Northwest](https://en.wikipedia.org/wiki/Pacific_Northwest){:target="\_blank"}. For those who don't know, this region is a [temperate rainforest](https://en.wikipedia.org/wiki/Temperate_rainforest){:target="\_blank"} which receives a lot of rain, but not a lot of snow. When it does finally snow, all hell breaks loose; many drivers and vehicles are not equipped to handle the freezing temperatures, and this brings traffic around the Portland metro area to a standstill. From the few snows we had this year, I witnessed the aftermath of countless accidents and stranded vehicles. Fortunately I was not involved in any of them. I'm writing this article with high hopes that it might clear up some common myths about what AWD machines are capable of, since many of these accidents could have been avoided if the proper precautions were taken.
 
@@ -45,7 +45,7 @@ There are a several things you can do to prepare your vehicle for inclement weat
 ### Buy winter tires
 
 - OK... tires ain't cheap, but I cannot stress this point enough. When I bought my car, it came with summer performance tires that become solid hockey pucks below freezing temperatures. Regardless, dedicated winter tires perform far better than all-season tires in cold weather and can even offer [comparable performance in warmer weather](http://www.roadandtrack.com/new-cars/videos/a5604/winter-tires-track-tested/){:target="\_blank"}. The only downside is increased wear, but the benefits could mean the difference between a safe stopping distance and your life literally spiraling out of control.
-- Try not to use studded tires if you can help it. [Studless technology these days is good enough](https://www.bridgestonetire.com/tread-and-trend/drivers-ed/snow-tires-studded-tires-vs-studless-tires){:target="\_blank"} where studs aren't really necessary, and studs are terrible for the roads when there's no ice and snow on the ground.
+- Try not to use studded tires if you can help it. Studless technology these days is so good that [studs aren't really necessary](https://www.bridgestonetire.com/tread-and-trend/drivers-ed/snow-tires-studded-tires-vs-studless-tires){:target="\_blank"}, and studs are *terrible* for the roads when there's no ice and snow on the ground.
 
 ### Wait... but aren't you a Subie fanboy?
 
@@ -53,7 +53,9 @@ Why yes, yes I am... and that's exactly why you should listen to me! As much as 
 
 ### Why is AWD so popular?
 
-Though it could have something to do with [confusion about features](http://www.roadandtrack.com/car-culture/a11665160/people-have-no-clue-what-features-their-cars-actually-have){:target="\_blank"}, I think it's due to marketing. Most of the time AWD simply isn't necessary on a road car, yet I actually believed many of these myths not so long ago because that's what manufacturers and salespeople told me over and over again. This of course doesn't apply to situations where you're going off road. In those cases, I would absolutely advocate for some sort of AWD or [4WD](https://en.wikipedia.org/wiki/Four-wheel_drive){:target="\_blank"} system\* and the proper clearance to avoid turning into a beached whale. I've done my best to link as many sources as I could think of, so don't take my word for it; see what the experts have to say. Thank you so much for reading this far. Really, it means a lot to me. If you want to learn more, please check out the links below.
+Though it could have something to do with [confusion about features](http://www.roadandtrack.com/car-culture/a11665160/people-have-no-clue-what-features-their-cars-actually-have){:target="\_blank"}, I think it's due to marketing. Much of the time AWD isn't really necessary on a road car, yet I actually believed many of these myths not so long ago because that's what manufacturers and salespeople told me over and over again. This of course doesn't apply to situations where you're going off road. In those cases, I would absolutely advocate for some sort of AWD or [4WD](https://en.wikipedia.org/wiki/Four-wheel_drive){:target="\_blank"} system\* and the proper clearance to avoid turning into a beached whale.
+
+I've done my best to link as many sources as I could think of, so don't take my word for it; see what the experts have to say. Thank you so much for reading this far. Please share this information (be it my article or someone else's) so that all may benefit. If you want to learn more, please check out the links below.
 
 \*There's an old saying that 4WD will still get you stuck, you'll just be twice as far away from civilization when it happens. My dad taught me to keep it in 2WD until you get stuck, then only use 4WD to dig yourself out. It's worked for me so far.
 
