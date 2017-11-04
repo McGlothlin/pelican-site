@@ -17,7 +17,11 @@ $(window).resize(function() {
 
 $('img').click(function() {
 	var scale = $('#content').outerWidth(true) / $(this).outerWidth(true);
-	if (!$(this).is(':checked')) {
+	if (!$(this).is(':checked') && $('figure').hasClass('image-center')) {
 		$(this).css('transform', 'scale(' + scale + ')');	
+	}
+	else if (!$(this).is(':checked') && $('figure').hasClass('image-right')) {
+		$(this).css('transform', 'scale(' + scale / 2 + ')');
+		$(this).css('transform-origin', 'right');
 	}
 });
