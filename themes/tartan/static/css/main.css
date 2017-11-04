@@ -327,6 +327,7 @@ input.button:hover {
 
 .zoom input[type=checkbox]:checked ~ label > img {
   cursor: zoom-out;
+  box-shadow: 0px 3px 11px rgba(0, 0, 0, 0.5);
 }
 
 .zoom input[type=checkbox]:not(:checked) ~ label > img {
