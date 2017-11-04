@@ -6,9 +6,13 @@ Category: cars
 Tags: Cars
 Author: Sean McGlothlin
 
-<figure class="image-center">
-  <img src="/images/miata2.jpg"/>
-  <figcaption>I paid 1/10 the price for my Miata compared to my WRX, but the fun factor is the same or better.</figcaption>
+<figure class="image-center zoom">
+  <input type="checkbox" id="zoombox">
+  <label for="zoombox">
+    <img src="/images/miata2.jpg">
+  </label>
+  <figcaption>I paid 1/10 the price for my Miata compared to my WRX, but the fun factor is the same or better.
+  </figcaption>
 </figure>
 
 When it comes to cars, the sky's the limit. Even if I made 10x my current salary there would still be countless cars I could never afford. The trick is to make the most of the money you *do* have without over-extending yourself financially. At the time of writing, my wife and I are really trying to save for a house, which doesn't leave a lot of margin for fun with cars. Below are 5 ways I've been able to continue my <s>addiction</s> hobby while maintaining a conservative budget.
@@ -21,7 +25,7 @@ Being a car enthusiast doesn't mean you have to drive a fancy car. You don't eve
 
 ###2. Do it yourself when possible
 
-I've heard it said that each time you hire someone, you could it yourself three times over for the same price. This means I can buy the most expensive parts or mess up once or twice, yet end up saving money in the long run. When I bought the Miata I knew it needed some work and was willing to do as much as I could on my own. I was confident I could figure it out eventually, but was worried that my lack of experience may hold me back, especially on safety-critical work. 
+I've heard it said that each time you hire someone, you could do it yourself three times over for the same price. This means I can buy the most expensive parts or mess up once or twice, yet end up saving money in the long run. When I bought the Miata I knew it needed some work and was willing to do as much as I could on my own. I was confident I could figure it out eventually, but was worried that my lack of experience may hold me back, especially on safety-critical work. 
 
 Fortunately my father-in-law is mechanically inclined and willing to teach as long as I'm willing to learn. He has been monumental in helping me learn how to work on cars safely at low cost. Here's a list of all the things we've fixed in my first six months of ownership:
 
@@ -47,3 +51,9 @@ It's fun to go fast, but we all inevitably get used to the sensation of being pu
 If you're on a really tight budget, you may simply have to wait a couple years until your situation gives you the freedom to fully appreciate the hobby. I certainly felt this as a college student. I've always liked cars but really couldn't afford my very own until I graduated. It was worth the wait, but took discipline in the meantime. I had other priorities, like paying for school and saving up for an engagement ring for my then-girlfriend.
 
 Everyone's situation is different, and there's no silver bullet for how to manage finances in each case. If you're frugal with spending, you may start to see money appear seemingly out of nowhere! In the meantime, sit tight, do a little research, and know that a little saving and learning each month will go a long way over time.
+
+After writing this article, I came across this video on YouTube which is very similar to what I've said here, so I thought I'd link it below. Enjoy!
+
+<div class="videoWrapper">
+    <iframe width="560" height="349" src="https://www.youtube.com/embed/_YcjWmGPcio" frameborder="0" allowfullscreen></iframe>
+</div>

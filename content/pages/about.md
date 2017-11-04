@@ -6,9 +6,13 @@ Alias: /pages/about.html
 
 ## About Me
 
-<figure class="image-right">
-  <img src="/images/sean.jpg"/>
-  <figcaption>Me in my hometown of <a href="http://www.travelgrantspass.com/" target="\_blank">Grants Pass</a>, Oregon.</figcaption>
+<figure class="image-right zoom">
+  <input type="checkbox" id="zoombox">
+  <label for="zoombox">
+    <img src="/images/sean.jpg"/>
+  </label>
+  <figcaption>Me in my hometown of <a href="http://www.travelgrantspass.com/" target="\_blank">Grants Pass</a>, Oregon.
+  </figcaption>
 </figure>
 
 If you want to learn more about what I do professionally, you can find me on [GitHub](https://github.com/McGlothlin){:target="\_blank"}, [LinkedIn](https://www.linkedin.com/in/smcglothlin){:target="\_blank"}, and [Stack Overflow](https://stackoverflow.com/users/5472966/mcglothlin){:target="\_blank"}. Please feel free to contact me if you would like to chat!

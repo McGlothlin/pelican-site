@@ -7,8 +7,11 @@ Tags: Cars
 Author: Sean McGlothlin
 Alias: /cars/awd-myths.html
 
-<figure class="image-center">
-  <img src="/images/subaru_rain.jpg"/>
+<figure class="image-center zoom">
+  <input type="checkbox" id="zoombox">
+  <label for="zoombox">
+    <img src="/images/subaru_rain.jpg">
+  </label>
 </figure>
 
 I love my WRX. Somehow Subaru was able to make something that's fun to drive and fast around corners, yet easy on your spine when you drive it every day. One of the things that "makes a Subaru a Subaru" is all-wheel drive, which comes standard on all of their cars except the [BRZ](http://www.subaru.com/vehicles/brz/index.html){:target="\_blank"}. All-wheel drive is a really nice feature, but people often have unrealistic expectations when it comes to using it in inclement weather.

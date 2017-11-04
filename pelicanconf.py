@@ -47,7 +47,7 @@ MENUITEMS = (('Home', '/'),
 PAGE_URL = '{slug}'
 PAGE_SAVE_AS = '{slug}/index.html'
 PATH = 'content'
-PLUGINS = ['pelican_alias', 'pelican_youtube']
+PLUGINS = ['pelican_alias']
 
 # Uncomment following line if you want document-relative URLs when developing
 RELATIVE_URLS = True

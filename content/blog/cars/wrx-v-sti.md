@@ -7,8 +7,11 @@ Tags: Cars
 Author: Sean McGlothlin
 Alias: /cars/wrx-v-sti.html
 
-<figure class="image-center">
-  <img src="/images/16wrx.jpg"/>
+<figure class="image-center zoom">
+  <input type="checkbox" id="zoombox">
+  <label for="zoombox">
+    <img src="/images/16wrx.jpg">
+  </label>
   <figcaption>This is my 2016 Subaru WRX</figcaption>
 </figure>
 

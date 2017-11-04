@@ -5,9 +5,13 @@
 {% block subtitle %}{{ SITESUBTITLE }}{% endblock %}
 
 {% block content %}
-  <figure class="image-center">
-    <img src="/images/wrx_db.jpg"/>
+  <figure class="image-center zoom">
+    <input type="checkbox" id="zoombox">
+    <label for="zoombox">
+      <img src="/images/wrx_db.jpg">
+    </label>
   </figure>
+
   <h2>Welcome!</h2>
   <p style="margin-top: 8px">
     I am a software developer working for the <a href="http://fa.oregonstate.edu/bic/core" target="_blank">CORE</a> team at Oregon State University. Our team develops and maintains a reporting application that provides business intellignce for staff and faculty across campus. My typical responsibilities include data analytics, data visualization, and user interface (UI) design for our application.

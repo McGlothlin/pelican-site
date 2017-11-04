@@ -27,8 +27,11 @@ And share it I did. I started playing music at my local church, which was a huge
 
 ### All about that bass
 
-<figure class="image-right">
-  <img src="/images/bass.jpg"/>
+<figure class="image-right zoom">
+  <input type="checkbox" id="zoombox">
+  <label for="zoombox">
+  	<img src="/images/bass.jpg"/>
+  </label>
   <figcaption>This is my 5 string bass, made by <a href="http://marcobassguitars.com/models" target="\_blank">Marco Cortes</a> of Dallas, OR
   </figcaption>
 </figure>
