@@ -313,10 +313,6 @@ input.button:hover {
   background-color: #123952;
 }
 
-input[type=checkbox] {
-  display: none;
-}
-
 .zoom img {
   -webkit-transition: box-shadow .2s, transform 0.25s;
   -moz-transition: box-shadow .2s, transform 0.25s;
@@ -325,7 +321,11 @@ input[type=checkbox] {
   cursor: zoom-in;
 }
 
-input[type=checkbox]:checked ~ label > img {
+.zoom input[type=checkbox] {
+  display: none;
+}
+
+.zoom input[type=checkbox]:checked ~ label > img {
   transform: scale(1.5);
   cursor: zoom-out;
 }
