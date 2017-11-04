@@ -14,3 +14,10 @@ $(window).scroll(function() {
 $(window).resize(function() {
 	$('#header').css('height', $('#header h1').outerHeight(true) + $('#header h2').outerHeight(true) + $('#sitemap').outerHeight(true));
 });
+
+$('img').click(function() {
+	var scale = $('#content').outerWidth(true) / $(this).outerWidth(true);
+	if (!$(this).is(':checked')) {
+		$(this).css('transform', 'scale(' + scale + ')');	
+	}
+});

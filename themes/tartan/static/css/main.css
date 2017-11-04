@@ -326,8 +326,11 @@ input.button:hover {
 }
 
 .zoom input[type=checkbox]:checked ~ label > img {
-  transform: scale(1.5);
   cursor: zoom-out;
+}
+
+.zoom input[type=checkbox]:not(:checked) ~ label > img {
+  transform: none !important;
 }
 
 figure {
