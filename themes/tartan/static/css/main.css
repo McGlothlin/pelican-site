@@ -78,7 +78,7 @@ body {
   padding:0;
   margin:0;
   overflow: hidden;
-  background-color: #1A5276;
+  background-color: hsla(203, 64%, 28%, 1);
   text-align: center;
   font-size: 1.1em;
   display: flex;
