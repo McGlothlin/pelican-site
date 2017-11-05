@@ -20,9 +20,10 @@
     <link rel="stylesheet" href="{{ SITEURL }}/theme/css/plaid.css">
     <link rel="stylesheet" href="{{ SITEURL }}/theme/css/syntax.css">
   </head>
-	<body>
-	  <div id="main">
-			{% block main %}
+  <body>
+    <div id="overlay"></div>
+    <div id="main">
+      {% block main %}
         <div id="header">
           <h1 class="center">{% block pagetitle %}{% endblock %}</h1>
           <h2 class="center">{% block subtitle %}{% endblock %}</h2>
@@ -46,7 +47,7 @@
           </div>
         </div>
       {% endblock main %}
-		</div>
+    </div>
     <script src="{{ SITEURL }}/theme/js/jquery-3.2.1.min.js"></script>
     <script src="{{ SITEURL }}/theme/js/main.js"></script>
   </body>
