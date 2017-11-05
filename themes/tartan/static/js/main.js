@@ -13,11 +13,13 @@ $(window).scroll(function() {
 
 });
 
+
 $(window).resize(function() {
     $('#header').css('height', $('#header h1').outerHeight(true) + $('#header h2').outerHeight(true) + $('#sitemap').outerHeight(true));
     
     shrinkImage();
 });
+
 
 $('img').click(function() {
 
@@ -43,6 +45,7 @@ $('img').click(function() {
 
 });
 
+
 $(document).click(function(event) {
 
     if (!$(event.target).closest('img').length && $('figure input').is(':checked')) {
@@ -50,6 +53,7 @@ $(document).click(function(event) {
     }
 
 });
+
 
 function shrinkImage() {
     $('figure input').each(function() {
