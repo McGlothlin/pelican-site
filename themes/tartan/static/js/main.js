@@ -5,10 +5,12 @@ $(window).scroll(function() {
         $('#sitemap').addClass('scrolling-sitemap');
         $('#header').css('height', height);
     }
+
     else {
         $('#sitemap').removeClass('scrolling-sitemap');
         $('#header').css('margin-bottom', 0);
     }
+
 });
 
 $(window).resize(function() {
@@ -18,6 +20,7 @@ $(window).resize(function() {
 });
 
 $('img').click(function() {
+
     // Grab the widths but don't round
     var mainwidth = $('#main')[0].getBoundingClientRect().width;
     var contentwidth = $('#content')[0].getBoundingClientRect().width;
@@ -27,6 +30,7 @@ $('img').click(function() {
         $(this).css('transform', 'scale(' + scale + ')');
         $('#overlay').show();
     }
+
     else if (!$('figure input').is(':checked') && $('figure').hasClass('image-right')) {
         $(this).css('transform', 'scale(' + scale * 1.5 + ')');
         $(this).css('transform-origin', 'right');
@@ -36,12 +40,15 @@ $('img').click(function() {
     if($('figure input').is(':checked')) {
         $('#overlay').hide();
     }
+
 });
 
 $(document).click(function(event) {
+
     if (!$(event.target).closest('img').length && $('figure input').is(':checked')) {
         shrinkImage();
     }
+
 });
 
 function shrinkImage() {
@@ -49,8 +56,9 @@ function shrinkImage() {
         if($(this).is(':checked')) {
             $(this).click();
         }
-        if(!$(this).is(':checked')) {
-            $('#overlay').hide();
-        }
     });
+
+    if (!$('figure input').is(':checked')) {
+        $('#overlay').hide();
+    }
 }
