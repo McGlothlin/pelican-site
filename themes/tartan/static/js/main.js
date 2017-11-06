@@ -30,13 +30,20 @@ $('img').click(function() {
     var scale = (mainwidth / contentwidth).toPrecision(21);
 
     if ($(this).css('cursor') === 'zoom-in') {
-        $(this).css('transform', 'scale(' + scale + ')');
         $(this).css('position', 'relative');
         $(this).css('cursor', 'zoom-out');
         $(this).css('box-shadow', '0px 3px 11px rgba(0, 0, 0, 0.5)');
         $('#overlay').show();
+
+        if ($('figure').hasClass('image-center')) {
+            $(this).css('transform', 'scale(' + scale + ')');
+        }
+        else {
+            $(this).css('transform', 'scale(' + scale * 1.5 + ')');
+            $(this).css('transform-origin', 'right');
+        }
     }
-    else if ($(this).css('cursor') == 'zoom-out') {
+    else {
         shrinkImages();
     }
 
