@@ -124,20 +124,14 @@ pagespeed EnableFilters prioritize_critical_css;
 
 #### Before
 
-<figure class="image-center zoom">
-  <input type="checkbox" id="zoombox1">
-  <label for="zoombox1">
-    <img src="/images/pagespeed_bad.png"/>
-  </label>
+<figure class="image-center">
+  <img src="/images/pagespeed_bad.png"/>
 </figure>
 
 #### After
 
-<figure class="image-center zoom">
-  <input type="checkbox" id="zoombox2">
-  <label for="zoombox2">
-    <img src="/images/pagespeed_good.png"/>
-  </label>
+<figure class="image-center">
+  <img src="/images/pagespeed_good.png"/>
 </figure>
 
 

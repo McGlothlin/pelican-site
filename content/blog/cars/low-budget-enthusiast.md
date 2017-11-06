@@ -6,11 +6,8 @@ Category: cars
 Tags: Cars
 Author: Sean McGlothlin
 
-<figure class="image-center zoom">
-  <input type="checkbox" id="zoombox">
-  <label for="zoombox">
-    <img src="/images/miata2.jpg">
-  </label>
+<figure class="image-center">
+  <img src="/images/miata2.jpg">
   <figcaption>I paid 1/10 the price for my Miata compared to my WRX, but the fun factor is the same or better.
   </figcaption>
 </figure>

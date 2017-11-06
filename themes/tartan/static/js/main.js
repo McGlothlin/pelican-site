@@ -11,14 +11,14 @@ $(window).scroll(function() {
         $('#header').css('margin-bottom', 0);
     }
 
-    shrinkImage();
+    shrinkImages();
 });
 
 
 $(window).resize(function() {
     $('#header').css('height', $('#header h1').outerHeight(true) + $('#header h2').outerHeight(true) + $('#sitemap').outerHeight(true));
     
-    shrinkImage();
+    shrinkImages();
 });
 
 
@@ -29,19 +29,15 @@ $('img').click(function() {
     var contentwidth = $('#content')[0].getBoundingClientRect().width;
     var scale = (mainwidth / contentwidth).toPrecision(21);
 
-    if (!$('figure input').is(':checked') && $('figure').hasClass('image-center')) {
+    if ($(this).css('cursor') === 'zoom-in') {
         $(this).css('transform', 'scale(' + scale + ')');
+        $(this).css('position', 'relative');
+        $(this).css('cursor', 'zoom-out');
+        $(this).css('box-shadow', '0px 3px 11px rgba(0, 0, 0, 0.5)');
         $('#overlay').show();
     }
-
-    else if (!$('figure input').is(':checked') && $('figure').hasClass('image-right')) {
-        $(this).css('transform', 'scale(' + scale * 1.5 + ')');
-        $(this).css('transform-origin', 'right');
-        $('#overlay').show();
-    }
-
-    if($('figure input').is(':checked')) {
-        $('#overlay').hide();
+    else if ($(this).css('cursor') == 'zoom-out') {
+        shrinkImages();
     }
 
 });
@@ -49,21 +45,20 @@ $('img').click(function() {
 
 $(document).click(function(event) {
 
-    if (!$(event.target).closest('img').length && $('figure input').is(':checked')) {
-        shrinkImage();
+    if (!$(event.target).closest('img').length) {
+        shrinkImages();
     }
 
 });
 
 
-function shrinkImage() {
-    $('figure input').each(function() {
-        if($(this).is(':checked')) {
-            $(this).click();
-        }
+function shrinkImages() {
+    $('img').each(function() {
+        $(this).css('transform', 'none');
+        $(this).css('cursor', 'zoom-in');
+        $(this).css('position', 'static');
+        $(this).css('box-shadow', '');
     });
 
-    if (!$('figure input').is(':checked')) {
-        $('#overlay').hide();
-    }
+    $('#overlay').hide();
 }

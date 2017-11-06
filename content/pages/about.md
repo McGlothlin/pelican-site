@@ -6,11 +6,8 @@ Alias: /pages/about.html
 
 ## About Me
 
-<figure class="image-right zoom">
-  <input type="checkbox" id="zoombox">
-  <label for="zoombox">
-    <img src="/images/sean.jpg"/>
-  </label>
+<figure class="image-right">
+  <img src="/images/sean.jpg"/>
   <figcaption>Me in my hometown of <a href="http://www.travelgrantspass.com/" target="\_blank">Grants Pass</a>, Oregon.
   </figcaption>
 </figure>
