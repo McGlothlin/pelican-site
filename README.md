@@ -8,7 +8,7 @@ This project is a blog that allows me to write about my interests, but it's also
 
 ## Why Pelican?
 
-Pelican uses [Jinja2](http://jinja.pocoo.org), a template engine for Python, to eliminate the need for the tedious writing of HTML pages tag by tag. This gives the site a consistent structure with a simple [DOM](https://www.w3.org/TR/DOM-Level-2-Core/introduction.html) and is less error prone. You build out the structure and Pelican fills in the boilerplate.
+Pelican uses [Jinja2](http://jinja.pocoo.org), a template engine for Python, to eliminate the need for the tedious writing of HTML pages tag by tag. This gives the site a consistent structure with a simple DOM that is less error prone. You build out the structure and Pelican fills in the boilerplate.
 
 ## Web development without a database
 
