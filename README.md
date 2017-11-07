@@ -4,7 +4,7 @@ A personal website powered by [Pelican](https://blog.getpelican.com).
 
 ## What is this?
 
-Started in June 2017, this project is a blog that allows me to write about my interests, but it's also much more than that. I use this site as a sandbox for learning and experimentation with various web technologies and practices. The site uses a custom theme I wrote using CSS3 and jQuery. I've tried to minimize the use of external libraries and do as much of it by hand as I can with the goal of furthering myself as a web developer and keeping my skills relevant in an ever-changing industry. I'm constantly rewriting functional aspects of the design as I figure out better ways of doing the same thing.
+Started in June 2017, this project is a blog that allows me to write about my interests It's also much more than that: I use this site as a sandbox for learning and experimentation with various web technologies and practices. The site uses a custom theme I wrote using CSS3 and jQuery. I've tried to minimize the use of external libraries and do as much of it by hand as I can with the goal of furthering myself as a web developer and keeping my skills relevant in an ever-changing industry. I'm constantly rewriting functional aspects of the design as I figure out better ways of doing the same thing.
 
 ## Why Pelican?
 
