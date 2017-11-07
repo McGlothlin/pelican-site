@@ -12,7 +12,7 @@ Pelican uses [Jinja2](http://jinja.pocoo.org), a template engine for Python, to 
 
 ## Web development without a database
 
-In the past I developed websites using a full-blown Content Management System (CMS), but I found most CMSes to be needlessly complex for my use case. I also work with databases all day at my current job and I thought I'd switch things up a bit; I want to maintain a well-rounded skillset.
+In the past I developed websites using a full-blown Content Management System, but I found most CMSes to be needlessly complex for my use case. I also work with databases all day at my current job and I thought I'd switch things up a bit; I want to maintain a well-rounded skillset.
 
 ## I welcome your feedback
 
