@@ -99,12 +99,6 @@ pagespeed MapOriginDomain "http://localhost" "https://seanmcglothlin.com";
 pagespeed LoadFromFile "https://seanmcglothlin.com" <path on disk to content>;
 ```
 
-While navigating to my site in Chrome I sometimes experienced a very long "Resolving host..." message. To combat this, I added the [`insert_dns_prefetch`](https://modpagespeed.com/doc/filter-insert-dns-prefetch){:target="\_blank"} filter. It's hard to confirm that this filter helps because the problem was intermittent, but I haven't experienced it again since adding this option.
-
-```text
-pagespeed EnableFilters insert_dns_prefetch;
-```
-
 I found that the [`remove_comments`](https://modpagespeed.com/doc/filter-comment-remove){:target="\_blank"} and [`collapse_whitespace`](https://modpagespeed.com/doc/filter-whitespace-collapse){:target="\_blank"} filters did very little, but included them anyway so I don't send unnecessary bytes over the network.
 
 ```text
