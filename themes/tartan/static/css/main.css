@@ -1,6 +1,6 @@
 html {
   color: hsla(208, 55%, 13%, 1);
-  font-size: 18px;
+  font-size: 16px;
   font-weight: normal;
   line-height: 1.4;
   font-family: 'Ubuntu', sans-serif;
@@ -19,6 +19,7 @@ body {
   margin-bottom: 0px;
   margin-left: 10%;
   margin-right: 10%;
+  font-size: 1.1em;
 }
 
 :focus {
@@ -96,7 +97,7 @@ body {
   margin-right: 10px;
   width: 100px;
   font-weight: 500;
-  letter-spacing: -0.01em;
+  /*letter-spacing: -0.01em;*/
   color: WhiteSmoke;
   text-decoration: none;
   -webkit-transition: box-shadow .2s, background-color .2s ease-in-out;
@@ -131,15 +132,15 @@ body {
   margin-right: 14%;
   font-family: 'Noto Sans', sans-serif;
   overflow: visible;
-  line-height: 1.6;
-  letter-spacing: -0.01em;
+  line-height: 1.75;
+  /*letter-spacing: -0.005em;*/
 }
 
 #content h1, h2 {
   font-family: 'Ubuntu', sans-serif;
   font-weight: 500;
   margin-top: 20px;
-  margin-bottom: 8px;
+  margin-bottom: 5px;
 }
 
 #content h2 {
@@ -213,7 +214,7 @@ body {
 
 #header h1 {
   font-weight: 500;
-  letter-spacing: -0.03em;
+  letter-spacing: -0.04em;
   margin: 0;
   padding-top: 1%;
 }
@@ -264,6 +265,10 @@ body {
   left: 0;
   width: 100%;
   height: 100%;
+}
+
+code {
+  letter-spacing: 0;
 }
 
 img {
@@ -340,6 +345,7 @@ figure.image-right > img {
 figcaption {
   font-size: 0.8em;
   margin-top: 5px;
+  letter-spacing: 0;
 }
 
 ul li {
@@ -356,19 +362,19 @@ pre {
 
 p {
   margin-top: 25px;
-  margin-bottom: 25px;
+  margin-bottom: 10px;
 }
 
 #content p + ul {
-  margin-bottom: 40px;
+  margin-bottom: 30px;
 }
 
 h3, h4, h5, h6 {
   font-family: 'Ubuntu', sans-serif;
   font-weight: 500;
-  letter-spacing: -0.03em;
+  letter-spacing: -0.02em;
   margin-top: 25px;
-  margin-bottom: 8px;
+  margin-bottom: 5px;
 }
 
 h1 + p, h2 + p, h3 + p, h4 + p, h5 + p, h6 + p {

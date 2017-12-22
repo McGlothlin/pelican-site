@@ -17,4 +17,4 @@ Alias: /pages/blog.html
 - [**Code**](../blog/code)
 - [**Music**](../blog/music)
 
-##All blog articles
+## All blog articles

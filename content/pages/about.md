@@ -44,6 +44,5 @@ Visitors with larger screens will notice a plaid background across the site. Any
 
 ### More Information
 
-[Click here](https://github.com/McGlothlin/pelican-site){:target="\_blank"} for this site's source code.
-
-Check out [this article](../blog/code/pagespeed) I wrote to learn about some of the optimizations I've done.
+- [Click here](https://github.com/McGlothlin/pelican-site){:target="\_blank"} for this site's source code.
+- Check out [this article](../blog/code/pagespeed) I wrote to learn about some of the optimizations I've done.
