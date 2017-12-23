@@ -3,7 +3,7 @@ html {
   font-size: 16px;
   font-weight: normal;
   line-height: 1.4;
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Noto Sans', sans-serif;
   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%;
   overflow-y: scroll;
@@ -85,6 +85,11 @@ body {
   box-shadow: 0 2px 2px 0 rgba(0,0,0,.14), 0 1px 5px 0 rgba(0,0,0,.12), 0 3px 1px -2px rgba(0,0,0,.2);
 }
 
+#header {
+  font-family: 'Ubuntu', sans-serif;
+  font-weight: 500;
+}
+
 #header li {
   display: inline-block;
   margin: auto;
@@ -136,7 +141,7 @@ body {
   /*letter-spacing: -0.005em;*/
 }
 
-#content h1, h2 {
+#content h1, #content h2 {
   font-family: 'Ubuntu', sans-serif;
   font-weight: 500;
   margin-top: 20px;
@@ -217,6 +222,8 @@ body {
   letter-spacing: -0.04em;
   margin: 0;
   padding-top: 1%;
+  color: hsla(208, 11%, 72%, 1);
+  text-shadow: 1px 2px 5px WhiteSmoke;
 }
 
 #header h2 {
@@ -224,6 +231,8 @@ body {
   letter-spacing: -0.03em;
   margin-top: 5px;
   margin-bottom: 20px;
+  color: hsla(198, 100%, 23%, 1);
+  text-shadow: 1px 2px 2px WhiteSmoke;
 }
 
 #footer ul {
@@ -371,6 +380,10 @@ p {
   margin-bottom: 30px;
 }
 
+#content h1, #content h2, #content h3, #content h4, #content h5, #content h6 {
+  text-shadow: 1px 2px 2px WhiteSmoke;
+}
+
 h3, h4, h5, h6 {
   font-family: 'Ubuntu', sans-serif;
   font-weight: 500;
@@ -419,7 +432,11 @@ hr {
   }
 
   #header h2 {
-    font-size: 1.5vw;
+    font-size: 2vw;
+  }
+
+  #content h2 {
+    font-size: 1.4em;
   }
 
   body {
@@ -438,12 +455,21 @@ hr {
   }
 
   #header h2 {
-    font-size: 2.5vw;
+    font-size: 3vw;
     margin-bottom: 15px;
+  }
+
+  #header li a {
+    padding-top: 15px;
+    padding-bottom: 15px;
   }
 
   #content h2 {
     font-size: 1.3em;
+  }
+
+  #content {
+    font-size: 0.95em;
   }
 
   #sitemap {
@@ -451,14 +477,25 @@ hr {
   }
 }
 
-@media (max-width: 800px) {
-
+@media (min-width: 1000px) and (max-width: 1200px) {
   #header h1 {
-    font-size: 5vw;
+    font-size: 4vw;
   }
 
   #header h2 {
     font-size: 2.5vw;
+    margin-bottom: 10px;
+  }
+}
+
+@media (max-width: 800px) {
+
+  #header h1 {
+    font-size: 6vw;
+  }
+
+  #header h2 {
+    font-size: 3.5vw;
     margin-bottom: 10px;
   }
 
