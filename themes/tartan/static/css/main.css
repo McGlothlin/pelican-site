@@ -268,7 +268,9 @@ body {
 }
 
 code {
+  font-family: monospace;
   letter-spacing: 0;
+  font-size: 0.9em;
 }
 
 img {
