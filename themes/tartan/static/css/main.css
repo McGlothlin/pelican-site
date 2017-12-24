@@ -280,6 +280,15 @@ code {
   font-family: monospace;
   letter-spacing: 0;
   font-size: 0.9em;
+  background-color: hsla(210, 7%, 88%, 1);
+  -webkit-transition: color, background-color .1s ease-in;
+  -moz-transition: color, background-color .1s ease-in;
+  -o-transition: color, background-color .1s ease-in;
+  transition: color, background-color .1s ease-in;
+}
+
+a:hover code {
+  background-color: hsla(140, 100%, 28%, 1);
 }
 
 img {
