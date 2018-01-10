@@ -231,7 +231,7 @@ body {
   letter-spacing: -0.03em;
   margin-top: 5px;
   margin-bottom: 20px;
-  color: hsla(198, 100%, 23%, 1);
+  color: hsl(203,64%,23%);
   text-shadow: 1px 2px 2px WhiteSmoke;
 }
 
