@@ -222,7 +222,8 @@ body {
   letter-spacing: -0.04em;
   margin: 0;
   padding-top: 1%;
-  color: hsla(208, 11%, 72%, 1);
+  /*color: hsla(208, 11%, 72%, 1);*/
+  color: hsl(203,64%,23%);
   text-shadow: 1px 2px 5px WhiteSmoke;
 }
 
