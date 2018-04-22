@@ -138,3 +138,5 @@ Now that I've added [Google Analytics](https://analytics.google.com){:target="\_
 ### Was all this really necessary?
 
 If I'm honest... no it wasn't. I have a relatively small and simple site that was already fast due to its minimalism, and few (if any) of my site's visitors would notice the best practices I'd missed. Regardless, I want my site to be as good as it can be and I value the learning process that got me to this point. Throughout that process I learned much about web development and I'm a more competent developer as a result. Next time I find one of our pages is slow at work, I'll know where to start looking.
+
+Update (April 21, 2018): I'm no longer using this module because <s>I've done a thorough cost-benefit analysis and have determined the benefits are negligible for my use case</s> I'm tired of recompiling nginx every time I do an update and haven't bothered to automate this like I should.

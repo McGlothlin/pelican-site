@@ -25,7 +25,7 @@ Perhaps this is why I've always felt an intimate connection to music that I stru
 
 And share it I did. I started playing music at my local church, which was a huge part of my life during the latter half of high school and continues to be relevant to this day. I stuck with the school orchestra until I graduated, but not without picking up several other instruments on the side: the guitar, [upright bass](https://en.wikipedia.org/wiki/Double_bass){:target="\_blank"} (when they needed someone to fill in for a concert), viola, and most importantly of all, the [bass guitar](https://en.wikipedia.org/wiki/Bass_guitar){:target="\_blank"}. The bass guitar was my first true love. Sorry, Nikki.
 
-### All about that bass
+### The bass guitar
 
 <figure class="image-right">
   <img src="/images/bass.jpg"/>
