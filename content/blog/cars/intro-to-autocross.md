@@ -14,7 +14,7 @@ Author: Sean McGlothlin
 
 Autocross is a timed event in which a single driver navigates through gates made of traffic cones to post their fastest time. It's usually competitive, but it doesn't have to be; many drivers solely compete against themselves, counting any improvement in time as a victory. Autocross is typically held in parking lots, but can also be held on race tracks. Speeds achieved are generally less than 50 mph (80 kph). Think of it as an agility course or barrel racing, but for cars instead of dogs or horses.
 
-The thought of driving your car as hard as you can sounds intimidating at first, but trust me, [your car can probably handle it](../autocross-anything). This type of driving is actually fairly easy on the car. The only parts it really stresses are wear items anyway - tires and brakes. The way I see it: if I break my car autocrossing, it was already broken and I just didn't know it yet.
+The thought of driving your car as hard as you can sounds intimidating at first, but trust me, [your car can probably handle it](/blog/cars/autocross-anything). This type of driving is actually fairly easy on the car. The only parts it really stresses are wear items anyway - tires and brakes. The way I see it: if I break my car autocrossing, it was already broken and I just didn't know it yet.
 
 No two autocross days are the same because no two courses are the same. Events vary greatly as they are highly dependent on the organization running them and the resources they have available (namely the course locations, which are sadly hard to find). To help paint a picture of what an autocross day might look like, I'll walk you through a general outline based on my admittedly limited experience. Don't worry, we're in this together!
 
