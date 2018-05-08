@@ -16,7 +16,7 @@ $contactForm.submit(function(e) {
     },
     error: function(err) {
       $contactForm.find('.alert--loading').hide();
-      $contactForm.append('<div class="alert alert--error">Oh noes, there was an error! Please try again.</div>');
+      $contactForm.append('<div class="alert alert--error">Oh noes, there was an error! Please <a href="https://seanmcglothlin.com/contact">try again</a>.</div>');
     }
   });
 });
