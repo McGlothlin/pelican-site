@@ -28,7 +28,7 @@
   <h3>Recent Articles</h3>
   <ul>
   {% for article in articles %}
-    {% if loop.index < 10 %}
+    {% if loop.index < 4 %}
       <li><a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a></li>
     {% endif %}
   {% endfor %}
