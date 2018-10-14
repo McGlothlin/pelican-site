@@ -12,7 +12,7 @@ Alias: /pages/about.html
   </figcaption>
 </figure>
 
-If you want to learn more about what I do professionally, you can find me on [GitHub](https://github.com/McGlothlin){:target="\_blank"}, [LinkedIn](https://www.linkedin.com/in/smcglothlin){:target="\_blank"}, and [Stack Overflow](https://stackoverflow.com/users/5472966/mcglothlin){:target="\_blank"}. Please feel free to [contact me](../contact) if you would like to chat!
+If you want to learn more about what I do professionally, you can find me on [GitHub](https://github.com/McGlothlin){:target="\_blank"}, [LinkedIn](https://www.linkedin.com/in/smcglothlin){:target="\_blank"}, and [Stack Overflow](https://stackoverflow.com/users/5472966/mcglothlin){:target="\_blank"}. Please feel free to [contact me](/contact) if you would like to chat!
 
 I am a classically trained musician who started learning the violin in elementary school and played in orchestras until I graduated high school. I've also given violin and viola lessons for a short time. Though I still know how to play both of these shoulder-mounted instruments, my true passion is for the bass guitar. I am self taught on the bass, learning primarily through YouTube tutorials and lots of practice. I play all sorts of music ranging from jazz to metal depending on who I'm with and what mood I'm in. My favorite band is Dream Theater, probably because I enjoy their turbulent time signatures.
 
@@ -22,7 +22,7 @@ I've always been into cars, but I've finally entered a stage in my life where I 
 
 ## About This Site
 
-This site was written with the help of [Pelican](https://blog.getpelican.com){:target="\_blank"}, a static site generator. The theme is responsive, scaling nicely on all screen sizes. I wrote the theme from scratch using CSS and a dash of jQuery for the [scrolling navigation bar](../blog/code/navbar).
+This site was written with the help of [Pelican](https://blog.getpelican.com){:target="\_blank"}, a static site generator. The theme is responsive, scaling nicely on all screen sizes. I wrote the theme from scratch using CSS and a dash of jQuery for the [scrolling navigation bar](/blog/code/navbar).
 
 ### Why Pelican?
 
@@ -45,4 +45,4 @@ Visitors with larger screens will notice a plaid background across the site. Any
 ### More Information
 
 - [Click here](https://github.com/McGlothlin/pelican-site){:target="\_blank"} for this site's source code.
-- Check out [this article](../blog/code/pagespeed) I wrote to learn about some of the optimizations I've done.
+- Check out [this article](/blog/code/pagespeed) I wrote to learn about some of the optimizations I've done.

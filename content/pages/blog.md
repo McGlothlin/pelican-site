@@ -13,8 +13,8 @@ Alias: /pages/blog.html
 
 ## Pages by category
 
-- [**Cars**](../blog/cars)
-- [**Code**](../blog/code)
-- [**Music**](../blog/music)
+- [**Cars**](/blog/cars)
+- [**Code**](/blog/code)
+- [**Music**](/blog/music)
 
 ## All blog articles
