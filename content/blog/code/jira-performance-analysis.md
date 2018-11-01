@@ -12,7 +12,7 @@ I hypothesized that the maximum [Java heap](https://en.wikipedia.org/wiki/Java_v
 
 Atlassian’s documentation warned that using a VM (as we are) can potentially impact performance, so I wanted to check to make sure the disk I/O times were up to par. Using an [Atlassian analysis tool](https://confluence.atlassian.com/kb/testing-disk-access-speed-for-a-java-application-818577561.html){:target="\_blank"}, I ran a benchmark test of open, read/write, close, and delete times. All results read in the top of the “OK” or bottom of the “Excellent” range, so we’re doing pretty well here.
 
-I tested the latency of the network connection between the Jira and database servers. The ping was 1ms, which is very fast; no problem here either.
+I tested the latency of the network connection between the Jira application and database servers. The ping was 1ms, which is very fast; no problem here either.
 
 Usually when you run out of heap space you get nasty out of memory errors and your application crashes, but that wasn’t the case here – the application was just running slow in certain situations. To view memory allocation over time I used a third party tool called [GCViewer](https://github.com/chewiebug/GCViewer){:target="\_blank"} which analyzes [garbage collection](https://en.wikipedia.org/wiki/Garbage_collection_(computer_science)){:target="\_blank"} (GC) log files. Fortunately a coworker told me exactly when Jira was slow, which allowed me to narrow it down to a 10 minute window and generate this visualization of the garbage collection events between 1:20 and 1:30pm on Oct. 30th:
 
