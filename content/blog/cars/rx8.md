@@ -5,8 +5,6 @@ Category: cars
 Tags: Cars
 Author: Sean McGlothlin
 
-<br>
-
 When you think of a pistonless petrol car, the FD RX-7 probably comes to mind. This poster child of the 90s made its claim to fame with the twin-turbo 13B-REW, an engine that was easy to modify and often featured in popular media.
 
 What if I told you the 13B-REW's naturally aspirated successor was just as special?
