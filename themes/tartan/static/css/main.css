@@ -612,7 +612,7 @@ hr {
   }
 
   #footer ul {
-    display: inline-block;
+    display: inline;
     text-align: center;
   }
 }
