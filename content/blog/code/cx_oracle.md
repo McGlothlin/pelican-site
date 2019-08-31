@@ -76,7 +76,7 @@ If you don't see an error message, then pat yourself on the back! It worked.
 
 ### Install from source
 
-Installing everything from source is a bit trickier becuase it requires gathering all the dependencies yourself. When I did this from source I was working with Solaris, which required me to install the following:
+Installing everything from source is a bit trickier because it requires gathering all the dependencies yourself. When I did this from source I was working with Solaris, which required me to install the following:
 
 - GCC
 - The `python-devel` package
